@@ -9,6 +9,7 @@
                
                         <item><title>[COLOR=yellow]                                      <<[/COLOR][COLOR=yellow] Canales Canadienses[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link></item>
                         
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://desdelapelouse.files.wordpress.com/2012/06/canada.png" group-title="LABEL",~ Canada TV ~
 http://www.lengua.com/anthems/Canada.mp3
