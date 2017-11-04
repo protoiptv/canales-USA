@@ -1,0 +1,258 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="MI MUSICA HD" tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/11/logo-mimusica.png",MI MUSICA HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/47.ts
+#EXTINF:-1 tvg-name="TELEHIT" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_05/572d5d149ab1a_telehit_mx55.png.0e8d7a00d05fbb8f5fe36ace2bc429f3.png",TELEHIT
+http://iptvparaguay.com:8000/live/DEMO43/566412182/214.ts
+#EXTINF:-1 tvg-name="RITMOSON" tvg-logo="http://images.mi.tv/channels/mx_ritmoson-latino_m.png",RITMOSON
+http://iptvparaguay.com:8000/live/DEMO43/566412182/212.ts
+#EXTINF:-1 tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/MTV.png",MTV
+http://iptvparaguay.com:8000/live/DEMO43/566412182/215.ts
+#EXTINF:-1 tvg-name="BANDAMAX" tvg-logo="http://tutelevisionenvivo.org/wp-content/uploads/2014/01/r.png",BANDAMAX
+http://iptvparaguay.com:8000/live/DEMO43/566412182/213.ts
+#EXTINF:-1 tvg-name="TOONCAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png",TOONCAST
+http://iptvparaguay.com:8000/live/DEMO43/566412182/68.ts
+#EXTINF:-1 tvg-name="PAKA PAKA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pakapaka_logotipo_%282010-2016%29.png",PAKA PAKA HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/69.ts
+#EXTINF:-1 tvg-name="TATETI HD" tvg-logo="http://images.mi.tv/channels/ar_tateti_m.png",TATETI HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/233.ts
+#EXTINF:-1 tvg-name="NICK JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png",NICK JR
+http://iptvparaguay.com:8000/live/DEMO43/566412182/192.ts
+#EXTINF:-1 tvg-name="NICK JR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png",NICK JR HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/61.ts
+#EXTINF:-1 tvg-name="NICK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",NICK
+http://iptvparaguay.com:8000/live/DEMO43/566412182/191.ts
+#EXTINF:-1 tvg-name="NICK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",NICK HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/62.ts
+#EXTINF:-1 tvg-name="PANDA" tvg-logo="http://www.mediafire.com/convkey/8a0a/mel6m9gr2df0zdbzg.jpg",PANDA
+http://iptvparaguay.com:8000/live/DEMO43/566412182/268.ts
+#EXTINF:-1 tvg-name="BABY TV" tvg-logo="https://fthmb.tqn.com/cDImBd92_6xp3JmFnZAVl4I-1JI=/2277x1868/filters:no_upscale()/about/BabyTV-Logo-with-URL-56aa16123df78cf772ac5771.JPG",BABY TV
+http://iptvparaguay.com:8000/live/DEMO43/566412182/270.ts
+#EXTINF:-1 tvg-name="DISNEY CHANNEL" tvg-logo="http://imagenpng.com/wp-content/uploads/2015/03/Logotipo-disney-channel-png-0.png",DISNEY CHANNEL
+http://iptvparaguay.com:8000/live/DEMO43/566412182/65.ts
+#EXTINF:-1 tvg-name="CARTOON NETWORK HD" tvg-logo="http://servitradingparaguay.com/logocanales/Cartoon_Network_Logo.png",CARTOON NETWORK HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/60.ts
+#EXTINF:-1 tvg-name="BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/120px-Boomerang_tv_logo.png",BOOMERANG
+http://iptvparaguay.com:8000/live/DEMO43/566412182/66.ts
+#EXTINF:-1 tvg-name="TVN KIDS" tvg-logo="http://estaticos.tvn.cl/skins/tvnkids/201611211350/gfx/redes-sociales.png",TVN KIDS
+http://iptvparaguay.com:8000/live/DEMO43/566412182/116.ts
+#EXTINF:-1 tvg-name="ANIME TV" tvg-logo="http://i.imgur.com/exvuGgQ.png",ANIME TV
+http://iptvparaguay.com:8000/live/DEMO43/566412182/80.ts
+#EXTINF:-1 tvg-name="LOS SIMPSON 24/7" tvg-logo="http://innovacioneducativa.upm.es/sandbox/pensamiento/cine_literatura/pelicula6.png",LOS SIMPSON 24/7
+http://iptvparaguay.com:8000/live/DEMO43/566412182/71.ts
+#EXTINF:-1 tvg-name="DISNEY XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png",DISNEY XD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/64.ts
+#EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png",ANIMAL PLANET
+http://iptvparaguay.com:8000/live/DEMO43/566412182/57.ts
+#EXTINF:-1 tvg-name="NAT GEO" tvg-logo="http://www.mejorescanales.com/wp-content/uploads/2016/02/Nat_geo_me.png",NAT GEO
+http://iptvparaguay.com:8000/live/DEMO43/566412182/181.ts
+#EXTINF:-1 tvg-name="NAT GEO HD" tvg-logo="http://www.mejorescanales.com/wp-content/uploads/2016/02/Nat_geo_me.png",NAT GEO HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/50.ts
+#EXTINF:-1 tvg-name="NAT GEO WILD" tvg-logo="http://images.mi.tv/channels/co_nat-geo-wild_m.png",NAT GEO WILD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/184.ts
+#EXTINF:-1 tvg-name="NAT GEO WILD HD" tvg-logo="http://images.mi.tv/channels/co_nat-geo-wild_m.png",NAT GEO WILD HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/51.ts
+#EXTINF:-1 tvg-name="HISTORY LATINO" tvg-logo="http://vercanalestv.com/logos/Historia.jpg",HISTORY LATINO
+http://iptvparaguay.com:8000/live/DEMO43/566412182/189.ts
+#EXTINF:-1 tvg-name="HISTORY LATINO HD" tvg-logo="http://vercanalestv.com/logos/Historia.jpg",HISTORY LATINO HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/58.ts
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-logo="https://cf.press.discovery.com/ugc/logos/2009/08/22/DSC_pos.png",DISCOVERY CHANNEL
+http://iptvparaguay.com:8000/live/DEMO43/566412182/182.ts
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://cf.press.discovery.com/ugc/logos/2009/08/22/DSC_pos.png",DISCOVERY CHANNEL HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/52.ts
+#EXTINF:-1 tvg-name="DISCOVERY TURBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png",DISCOVERY TURBO
+http://iptvparaguay.com:8000/live/DEMO43/566412182/56.ts
+#EXTINF:-1 tvg-name="DISCOVERY  ID HD" tvg-logo="http://images.mi.tv/channels/mx_discovery-id_m.png",DISCOVERY  ID HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/55.ts
+#EXTINF:-1 tvg-name="DISCOVERY TLC" tvg-logo="http://www.mediafire.com/convkey/1948/urzsrf946zocc6qzg.jpg",DISCOVERY TLC
+http://iptvparaguay.com:8000/live/DEMO43/566412182/254.ts
+#EXTINF:-1 tvg-name="DISCOVERY THEATHER" tvg-logo="http://images.mi.tv/channels/ar_discovery-hd-theater_m.png",DISCOVERY THEATHER
+http://iptvparaguay.com:8000/live/DEMO43/566412182/253.ts
+#EXTINF:-1 tvg-name="DISCOVERY SCIENCE" tvg-logo="http://www.mediafire.com/convkey/a2c6/7a9rt7yxxr38e36zg.jpg",DISCOVERY SCIENCE
+http://iptvparaguay.com:8000/live/DEMO43/566412182/265.ts
+#EXTINF:-1 tvg-name="DISCOVERY  HOME & HEALTH" tvg-logo="http://www.mediafire.com/convkey/04c8/5d9ej3quhr5lob7zg.jpg",DISCOVERY  HOME & HEALTH
+http://iptvparaguay.com:8000/live/DEMO43/566412182/276.ts
+#EXTINF:-1 tvg-name="DISCOVERY CIVILIZATION" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/9b/Discovery_Civilization_2011.png",DISCOVERY CIVILIZATION
+http://iptvparaguay.com:8000/live/DEMO43/566412182/53.ts
+#EXTINF:-1 tvg-name="EL GOURMET" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11008_7_20686.png",EL GOURMET
+http://iptvparaguay.com:8000/live/DEMO43/566412182/188.ts
+#EXTINF:-1 tvg-name="EL GOURMET HD" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11008_7_20686.png",EL GOURMET HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/59.ts
+#EXTINF:-1 tvg-name="CANAL COCINA" tvg-logo="http://www.mediafire.com/convkey/a79e/qwgb526gqffkxuqzg.jpg",CANAL COCINA
+http://iptvparaguay.com:8000/live/DEMO43/566412182/262.ts
+#EXTINF:-1 tvg-name="FOX LATINO" tvg-logo="http://vercanalestv.com/logos/fox_logo.jpg",FOX LATINO
+http://iptvparaguay.com:8000/live/DEMO43/566412182/193.ts
+#EXTINF:-1 tvg-name="FOX LATINO HD" tvg-logo="http://vercanalestv.com/logos/fox_logo.jpg",FOX LATINO HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/72.ts
+#EXTINF:-1 tvg-name="CINECANAL HD" tvg-logo="http://images.mi.tv/channels/ar_cinecanal-1_m.png",CINECANAL HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/75.ts
+#EXTINF:-1 tvg-name="SPACE" tvg-logo="http://latelete.tv/img/space.png",SPACE
+http://iptvparaguay.com:8000/live/DEMO43/566412182/87.ts
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png",CINEMAX
+http://iptvparaguay.com:8000/live/DEMO43/566412182/76.ts
+#EXTINF:-1 tvg-name="ISAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/I_sat.jpg",ISAT
+http://iptvparaguay.com:8000/live/DEMO43/566412182/251.ts
+#EXTINF:-1 tvg-name="DISTRITO COMEDIA" tvg-logo="http://www.mediafire.com/convkey/0463/7hy2egso4onde2tzg.jpg",DISTRITO COMEDIA
+http://iptvparaguay.com:8000/live/DEMO43/566412182/255.ts
+#EXTINF:-1 tvg-name="COMEDY CENTRAL HD" tvg-logo="http://www.mediafire.com/convkey/a81a/7cv9qb90l5wwh5lzg.jpg",COMEDY CENTRAL HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/256.ts
+#EXTINF:-1 tvg-name="TNT LATINO" tvg-logo="http://vercanalestv.com/logos/TNT_Logo.png",TNT LATINO
+http://iptvparaguay.com:8000/live/DEMO43/566412182/194.ts
+#EXTINF:-1 tvg-name="TNT LATINO HD" tvg-logo="http://vercanalestv.com/logos/TNT_Logo.png",TNT LATINO HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/73.ts
+#EXTINF:-1 tvg-name="TNT LATINO OP2 HD" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/16/9d/dd/169dddc3fba8a4b5eadc2b6cd7b0a38c.jpg",TNT LATINO OP2 HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/206.ts
+#EXTINF:-1 tvg-name="TNT SERIES HD" tvg-logo="http://i.imgur.com/lK47InS.png",TNT SERIES HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/74.ts
+#EXTINF:-1 tvg-name="FX MOVIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1200px-FXM_Logo.svg.png",FX MOVIES HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/127.ts
+#EXTINF:-1 tvg-name="FOX LIFE" tvg-logo="http://images.mi.tv/channels/mx_fox-life_m.png",FOX LIFE
+http://iptvparaguay.com:8000/live/DEMO43/566412182/126.ts
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://la.axn.com/sites/la.axn/files/logos/axn_0.png",AXN
+http://iptvparaguay.com:8000/live/DEMO43/566412182/125.ts
+#EXTINF:-1 tvg-name="AXN HD" tvg-logo="https://www.adslzone.tv/app/uploads/2009/11/axn-hd.jpg",AXN HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/79.ts
+#EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://pbs.twimg.com/profile_images/881262633369862150/l5NdSXm6.jpg",HBO HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/81.ts
+#EXTINF:-1 tvg-name="HBO 2" tvg-logo="http://images.mi.tv/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg",HBO 2
+http://iptvparaguay.com:8000/live/DEMO43/566412182/82.ts
+#EXTINF:-1 tvg-name="HBO PLUS" tvg-logo="http://tvzamora.net/wp-content/uploads/2016/12/HBOPLUS-oeste-300x206.png",HBO PLUS
+http://iptvparaguay.com:8000/live/DEMO43/566412182/84.ts
+#EXTINF:-1 tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/HBO_family_logo.png",HBO FAMILY
+http://iptvparaguay.com:8000/live/DEMO43/566412182/83.ts
+#EXTINF:-1 tvg-name="HBO SIGNATURE" tvg-logo="http://images.mi.tv/channels/co_hbo-signature-hd_m.png",HBO SIGNATURE
+http://iptvparaguay.com:8000/live/DEMO43/566412182/85.ts
+#EXTINF:-1 tvg-name="MAX PRIME" tvg-logo="http://images.mi.tv/channels/ar_max-prime_m.png",MAX PRIME
+http://iptvparaguay.com:8000/live/DEMO43/566412182/86.ts
+#EXTINF:-1 tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="http://www.cineytele.com/wp-content/uploads/2016/06/paramount-channel.png",PARAMOUNT CHANNEL HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/208.ts
+#EXTINF:-1 tvg-name="SUNDANCE CHANEL HD" tvg-logo="http://www.sundancetv.es/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png",SUNDANCE CHANEL HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/219.ts
+#EXTINF:-1 tvg-name="CINE AR" tvg-logo="http://www.conclusion.com.ar/wp-content/uploads/2016/12/ARGENTINO.png",CINE AR
+http://iptvparaguay.com:8000/live/DEMO43/566412182/225.ts
+#EXTINF:-1 tvg-name="AMC HD" tvg-logo="http://www.tutvplay.com/img/ch/AMC-HD.png",AMC HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/78.ts
+#EXTINF:-1 tvg-name="A&E" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL.png",A&E
+http://iptvparaguay.com:8000/live/DEMO43/566412182/77.ts
+#EXTINF:-1 tvg-name="WARNER" tvg-logo="http://images.mi.tv/channels/ar_warner-channel_m.png",WARNER
+http://iptvparaguay.com:8000/live/DEMO43/566412182/92.ts
+#EXTINF:-1 tvg-name="UNIVERSAL" tvg-logo="http://www.universalchannel.com/sites/all/themes/pint_themes/base_universal/logo-white.png",UNIVERSAL
+http://iptvparaguay.com:8000/live/DEMO43/566412182/93.ts
+#EXTINF:-1 tvg-name="FOX ACTION HD" tvg-logo="http://tvenvivo.tv/wp-content/uploads/2017/08/fox-action.jpg",FOX ACTION HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/88.ts
+#EXTINF:-1 tvg-name="FOX MOVIES" tvg-logo="http://images.mi.tv/channels/mx_fox-movies_m.png",FOX MOVIES
+http://iptvparaguay.com:8000/live/DEMO43/566412182/90.ts
+#EXTINF:-1 tvg-name="FOX CINEMA" tvg-logo="http://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/fox_cinema.jpg",FOX CINEMA
+http://iptvparaguay.com:8000/live/DEMO43/566412182/198.ts
+#EXTINF:-1 tvg-name="FOX CINEMA HD" tvg-logo="http://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/fox_cinema.jpg",FOX CINEMA HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/89.ts
+#EXTINF:-1 tvg-name="FOX CLASSIC" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_10/large.581258075f10c_FoxClassicsHD.png.282493f090b1e985a280f9cff4b6cf4b.png",FOX CLASSIC
+http://iptvparaguay.com:8000/live/DEMO43/566412182/91.ts
+#EXTINF:-1 tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/TCM_tv_logo.png",TCM
+http://iptvparaguay.com:8000/live/DEMO43/566412182/142.ts
+#EXTINF:-1 tvg-name="GOLDEN" tvg-logo="http://3.bp.blogspot.com/-xeoqbN27b1w/VC3oZBK7FAI/AAAAAAAAArA/tDrRrTm_iek/s1600/Golden_logo.png",GOLDEN
+http://iptvparaguay.com:8000/live/DEMO43/566412182/94.ts
+#EXTINF:-1 tvg-name="DARK TV" tvg-logo="http://latelete.tv/img/dark.jpg",DARK TV
+http://iptvparaguay.com:8000/live/DEMO43/566412182/248.ts
+#EXTINF:-1 tvg-name="TYC SPORT" tvg-logo="http://elgrantv.com/imagenes/imagen_tyc.jpg",TYC SPORT
+http://iptvparaguay.com:8000/live/DEMO43/566412182/246.ts
+#EXTINF:-1 tvg-name="FOX SPORT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Fox_Sports_Logo.png",FOX SPORT HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/144.ts
+#EXTINF:-1 tvg-name="FOX SPORT 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png",FOX SPORT 2 HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/145.ts
+#EXTINF:-1 tvg-name="FOX SPORT 3 HD" tvg-logo="https://3.bp.blogspot.com/-gwww46SKy74/Vt9cKZepvBI/AAAAAAAADcE/V_vZ6pyyyKg/s1600/fox-sports-3.png",FOX SPORT 3 HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/146.ts
+#EXTINF:-1 tvg-name="FOX SPORT PREMIUM" tvg-logo="http://forounivers.com/uploads/monthly_2017_04/gallery_1157_2_77971.png.a6d784f3e7234d6e2caa326027a06e61.png",FOX SPORT PREMIUM
+http://iptvparaguay.com:8000/live/DEMO43/566412182/176.ts
+#EXTINF:-1 tvg-name="TNT SPORT HD" tvg-logo="http://www.televisionparatodos.tv/wp-content/uploads/2017/06/tntsports.jpg",TNT SPORT HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/175.ts
+#EXTINF:-1 tvg-name="CNT SPORT PPV 2" tvg-logo="https://tepasoeldato.ec/wp-content/uploads/2017/08/vbk4TDRo.jpg",CNT SPORT PPV 2
+http://iptvparaguay.com:8000/live/DEMO43/566412182/166.ts
+#EXTINF:-1 tvg-name="CNT SPORT" tvg-logo="https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2017/05/cnt_sport.png",CNT SPORT
+http://iptvparaguay.com:8000/live/DEMO43/566412182/165.ts
+#EXTINF:-1 tvg-name="ESPN HD" tvg-logo="http://4.bp.blogspot.com/-TD-qFgzgz0s/UTVXi1x4xAI/AAAAAAAAGak/slHCDfKxULI/s1600/ESPN+HD.png",ESPN HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/102.ts
+#EXTINF:-1 tvg-name="ESPN 2 HD" tvg-logo="http://udslatino.com/Images/LatinoHDChannels/ESPN2HD.png",ESPN 2 HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/103.ts
+#EXTINF:-1 tvg-name="ESPN 3 HD" tvg-logo="https://zpapi.zetatv.com.uy/media/images/espn3-s.png",ESPN 3 HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/104.ts
+#EXTINF:-1 tvg-name="ESPN + AR" tvg-logo="http://images.mi.tv/channels/mx_espn-hd-1_m.png",ESPN + AR
+http://iptvparaguay.com:8000/live/DEMO43/566412182/252.ts
+#EXTINF:-1 tvg-name="MOVISTAR TOROS TV" tvg-logo="http://www.mediafire.com/convkey/d985/ggeg5zddhemvvwrzg.jpg",MOVISTAR TOROS TV
+http://iptvparaguay.com:8000/live/DEMO43/566412182/259.ts
+#EXTINF:-1 tvg-name="MOVISTAR FUTBOL HD" tvg-logo="http://www.mediafire.com/convkey/3816/91wi1bpvsq1x817zg.jpg",MOVISTAR FUTBOL HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/260.ts
+#EXTINF:-1 tvg-name="MOVISTAR FORMULA 1" tvg-logo="http://www.mediafire.com/convkey/ec34/bgc4e3iamc44z6hzg.jpg",MOVISTAR FORMULA 1
+http://iptvparaguay.com:8000/live/DEMO43/566412182/257.ts
+#EXTINF:-1 tvg-name="MOVISTAR DEPORTES" tvg-logo="http://www.mediafire.com/convkey/3a82/xaurtiou8rtvfu9zg.jpg",MOVISTAR DEPORTES
+http://iptvparaguay.com:8000/live/DEMO43/566412182/261.ts
+#EXTINF:-1 tvg-name="GOL TV ES" tvg-logo="http://vercanalestv.com/logos/goltv.jpg",GOL TV ES
+http://iptvparaguay.com:8000/live/DEMO43/566412182/269.ts
+#EXTINF:-1 tvg-name="EUROSPORT 1 HD" tvg-logo="http://www.mediafire.com/convkey/86a4/sj8vnh3romll9rizg.jpg",EUROSPORT 1 HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/266.ts
+#EXTINF:-1 tvg-name="CAZA Y PESCA" tvg-logo="http://www.mediafire.com/convkey/97dd/cp0tcy6riefs8ywzg.jpg",CAZA Y PESCA
+http://iptvparaguay.com:8000/live/DEMO43/566412182/258.ts
+#EXTINF:-1 tvg-name="BEIN SPORT HD" tvg-logo="https://pbs.twimg.com/profile_images/821337272477974528/2jLSfpjG.jpg",BEIN SPORT HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/263.ts
+#EXTINF:-1 tvg-name="BEIN LA LIGA HD" tvg-logo="http://www.mediafire.com/convkey/d5c5/okbbi4bykvahy0bzg.jpg",BEIN LA LIGA HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/267.ts
+#EXTINF:-1 tvg-name="BARÇA TV" tvg-logo="http://assets.cdn.iinet.net.au/assets/Posters/live-barcatv.jpg",BARÇA TV
+http://iptvparaguay.com:8000/live/DEMO43/566412182/264.ts
+#EXTINF:-1 tvg-name="DIRECTV SPORT" tvg-logo="http://www.televisionparatodos.tv/wp-content/uploads/2013/06/11.png",DIRECTV SPORT
+http://iptvparaguay.com:8000/live/DEMO43/566412182/249.ts
+#EXTINF:-1 tvg-name="DIRECTV SPORT 2 HD" tvg-logo="http://www.television-envivo.com/wp-content/uploads/2016/06/directv-sports-2-300-150x150.png",DIRECTV SPORT 2 HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/109.ts
+#EXTINF:-1 tvg-name="DIRECTV SPORT + HD" tvg-logo="http://2.bp.blogspot.com/-PEzJjWEJMSo/UhhWn6ndjLI/AAAAAAAAEA4/te90Z_mdLMU/s1600/directvmas.png",DIRECTV SPORT + HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/110.ts
+#EXTINF:-1 tvg-name="Pac-12 Oregon" tvg-logo="https://cdn3.iconfinder.com/data/icons/flags-circle/100/USA_-128.png",Pac-12 Oregon
+http://iptvparaguay.com:8000/live/DEMO43/566412182/282.ts
+#EXTINF:-1 tvg-name="PAC-12 National" tvg-logo="https://cdn3.iconfinder.com/data/icons/flags-circle/100/USA_-128.png",PAC-12 National
+http://iptvparaguay.com:8000/live/DEMO43/566412182/281.ts
+#EXTINF:-1 tvg-name="Pac-12 Mountain" tvg-logo="https://cdn3.iconfinder.com/data/icons/flags-circle/100/USA_-128.png",Pac-12 Mountain
+http://iptvparaguay.com:8000/live/DEMO43/566412182/280.ts
+#EXTINF:-1 tvg-name="Pac-12 Los Angeles" tvg-logo="https://cdn3.iconfinder.com/data/icons/flags-circle/100/USA_-128.png",Pac-12 Los Angeles
+http://iptvparaguay.com:8000/live/DEMO43/566412182/279.ts
+#EXTINF:-1 tvg-name="PAC-12 Bay Area" tvg-logo="https://cdn3.iconfinder.com/data/icons/flags-circle/100/USA_-128.png",PAC-12 Bay Area
+http://iptvparaguay.com:8000/live/DEMO43/566412182/278.ts
+#EXTINF:-1 tvg-name="Pac-12 Arizona" tvg-logo="https://cdn3.iconfinder.com/data/icons/flags-circle/100/USA_-128.png",Pac-12 Arizona
+http://iptvparaguay.com:8000/live/DEMO43/566412182/277.ts
+#EXTINF:-1 tvg-name="Pac 12 Washington" tvg-logo="https://cdn3.iconfinder.com/data/icons/flags-circle/100/USA_-128.png",Pac 12 Washington
+http://iptvparaguay.com:8000/live/DEMO43/566412182/283.ts
+#EXTINF:-1 tvg-name="DXTV HD" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/Deportv_logo-magenta_RGB-01-730x299.png",DXTV HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/204.ts
+#EXTINF:-1 tvg-name="BOLIVIA TV DEPORTES" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_05/large.574b32ecccde7_BoliviaTV7.2.png.303f38669583aec515e864af23d16582.png",BOLIVIA TV DEPORTES
+http://iptvparaguay.com:8000/live/DEMO43/566412182/235.ts
+#EXTINF:-1 tvg-name="CHELSEA TV" tvg-logo="https://cdn.firstone.tv/images/logos/uk/CHELSEATV.png",CHELSEA TV
+http://iptvparaguay.com:8000/live/DEMO43/566412182/113.ts
+#EXTINF:-1 tvg-name="CDO PREMIUM" tvg-logo="https://yt3.ggpht.com/-G-CNMy7dAls/AAAAAAAAAAI/AAAAAAAAAAA/PqH6kUGN5TQ/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",CDO PREMIUM
+http://iptvparaguay.com:8000/live/DEMO43/566412182/112.ts
+#EXTINF:-1 tvg-name="REAL MADRID TV" tvg-logo="https://pbs.twimg.com/profile_images/855073776215654400/oGEOJ2JU.jpg",REAL MADRID TV
+http://iptvparaguay.com:8000/live/DEMO43/566412182/247.ts
+#EXTINF:-1 tvg-name="WIN SPORT" tvg-logo="http://i.imgur.com/GItbD.png",WIN SPORT
+http://iptvparaguay.com:8000/live/DEMO43/566412182/158.ts
+#EXTINF:-1 tvg-name="VTV URUGUAY" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/for_sale_images/1/240/default.jpg",VTV URUGUAY
+http://iptvparaguay.com:8000/live/DEMO43/566412182/163.ts
+#EXTINF:-1 tvg-name="TODO DEPORTES" tvg-logo="http://images.mi.tv/channels/hn_todo-deportes-tdtv_m.png",TODO DEPORTES
+http://iptvparaguay.com:8000/live/DEMO43/566412182/138.ts
+#EXTINF:-1 tvg-name="CDF PREMIUM" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_8435_2_3505.png",CDF PREMIUM
+http://iptvparaguay.com:8000/live/DEMO43/566412182/148.ts
+#EXTINF:-1 tvg-name="GARAGE TV" tvg-logo="https://pbs.twimg.com/profile_images/590209545756106752/ckdTiNYI.jpg",GARAGE TV
+http://iptvparaguay.com:8000/live/DEMO43/566412182/223.ts
+#EXTINF:-1 tvg-name="F1 LATINO HD" tvg-logo="http://canalf1latinamerica.com/wp-content/uploads/2015/10/logo-canal-f1-latin-america250-opac.png",F1 LATINO HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/105.ts
+#EXTINF:-1 tvg-name="ALL SPORT" tvg-logo="http://www.megatvaovivo.com/wp-content/uploads/2016/08/all-sports.png",ALL SPORT
+http://iptvparaguay.com:8000/live/DEMO43/566412182/122.ts
+#EXTINF:-1 tvg-name="UFC NETWORK HD" tvg-logo="http://media.ufc.tv/logos/UFC_FIGHTPASS_LOGO_F.PNG",UFC NETWORK HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/107.ts
+#EXTINF:-1 tvg-name="UNIVISION TDN" tvg-logo="http://s3.lightboxcdn.com/vendors/f5736c5c-cae5-4054-81ae-a82b7b8ef0aa/uploads/79793e36-cb6c-4dff-b8d1-fb68af0d30ff/UVD[1].png",UNIVISION TDN
+http://iptvparaguay.com:8000/live/DEMO43/566412182/106.ts
+#EXTINF:-1 tvg-name="TDN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png",TDN HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/210.ts
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://pbs.twimg.com/profile_images/883447001647656961/0Ykmk4ep_400x400.jpg",NBA TV
+http://iptvparaguay.com:8000/live/DEMO43/566412182/209.ts
+#EXTINF:-1 tvg-name="RED BULL TV HD" tvg-logo="http://2.bp.blogspot.com/-FS7BOEiTZuY/UDFmV5bsaCI/AAAAAAAAByA/YWo48CK0PsY/s1600/red+bull+tv.png",RED BULL TV HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/139.ts
+#EXTINF:-1 tvg-name="GOL TV" tvg-logo="http://compass.xboxlive.com/assets/43/e3/43e36213-33fc-4c23-bdb7-e7c8cff61e44.png",GOL TV
+http://iptvparaguay.com:8000/live/DEMO43/566412182/143.ts
+#EXTINF:-1 tvg-name="NFL NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/745px-MLBNetworkLogo.svg.png",NFL NETWORK HD
+http://iptvparaguay.com:8000/live/DEMO43/566412182/114.ts
