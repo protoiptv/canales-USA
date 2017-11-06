@@ -64,7 +64,7 @@
         <fanart>https://www.xtrafondos.com/wallpapers/gandalf-y-bilbo-baggings-en-el-hobbit-108.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/fraguas-fraguas/el-senor-de-los-anillos-26445</page>
+<page>http://diskokosmiko.mx/fraguas-fraguas/el-hobbit-26514</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -82,7 +82,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/fraguas-fraguas/el-senor-de-los-anillos-26445<referer>
+<referer>http://diskokosmiko.mx/fraguas-fraguas/el-hobbit-26514<referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
