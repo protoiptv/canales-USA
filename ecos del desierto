@@ -1,0 +1,45 @@
+      <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+ 
+<channel>
+    <name>          <<<<<<<<<Ecos del Desierto>>>>>>>></name>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/66/TVChile_logo_2016.png</thumbnail>
+    <fanart>https://cdn.suwalls.com/wallpapers/digital-art/chile-flag-with-paint-drops-51998-1920x1080.jpg</fanart>
+        <items>
+               
+                        <item><title>[COLOR=cyan]                                      <<[/COLOR][COLOR=yellow] Ecos del Desierto[/COLOR][COLOR=cyan]>>[/COLOR]</title>   <link>http://about.me/adryan</link></item>
+ 
+ 
+        <item>
+        <title>[COLOR cyan][COLOR lime]• [/COLOR] Ecos del Desierto - Capitulo 1 </title>
+        <fanart></fanart>
+        <thumbnail></thumbnail>
+        <link>http://vod.hls.http.chvprontus.ztreaming.com/chvprontus/_definst_/mp4:chvprontus/ecos_del_desierto/site/mm/20131210/mmedia/multimedia_video120131210175028.mp4/playlist.m3u8
+</link>
+        </item>
+
+
+        <item>
+        <title>[COLOR cyan][COLOR lime]• [/COLOR] Ecos del Desierto - Capitulo 2 </title>
+        <fanart></fanart>
+        <thumbnail></thumbnail>
+        <link>http://vod.hls.http.chvprontus.ztreaming.com/chvprontus/_definst_/mp4:chvprontus/ecos_del_desierto/site/mm/20131210/mmedia/multimedia_video120131210175144.mp4/playlist.m3u8
+</link>
+        </item>
+
+
+        <item>
+        <title>[COLOR cyan][COLOR lime]• [/COLOR] Ecos del Desierto - Capitulo 3 </title>
+        <fanart></fanart>
+        <thumbnail></thumbnail>
+        <link>http://vod.hls.http.chvprontus.ztreaming.com/chvprontus/_definst_/mp4:chvprontus/ecos_del_desierto/site/mm/20131210/mmedia/multimedia_video120131210175308.mp4/playlist.m3u8
+</link>
+        </item>
+
+
+        <item>
+        <title>[COLOR cyan][COLOR lime]• [/COLOR] Ecos del Desierto - Capitulo 4 </title>
+        <fanart></fanart>
+        <thumbnail></thumbnail>
+        <link>http://vod.hls.http.chvprontus.ztreaming.com/chvprontus/_definst_/mp4:chvprontus/ecos_del_desierto/site/mm/20131210/mmedia/multimedia_video120131210175423.mp4/playlist.m3u8</link>
+        </item>
