@@ -1,5 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+ 
+<channel>
+    <name>          <<<<<<<<<Documentales>>>>>>>></name>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+        <items>
+               
+                        <item><title>[COLOR=yellow]                                      <<[/COLOR][COLOR=yellow] Documentales[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link></item>
+ 
+ 
+ 
+
+
+
 <item>
-<title>[COLOR royalblue][COLOR white]• [/COLOR] [B]Cosmos[/B][/COLOR]</title>
+<title>[COLOR white][COLOR blue]• [/COLOR]Cosmos [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -37,7 +53,14 @@
 </item>
 
 <item>
-<title>[COLOR royalblue][COLOR white]• [/COLOR] [B]Alienigenas ancestrales[/B][/COLOR]</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Baraka 1992 </title>
+                        <fanart>http://www.tasteofcinema.com/wp-content/uploads/2015/11/Baraka.jpg</fanart>
+                        <thumbnail>https://i.ytimg.com/vi/bbykhJ8aTz0/movieposter.jpg</thumbnail>
+                        <urlsolve>https://drive.google.com/open?id=1xyDrpWxgZlxf5gf4_vIDL41gVoAKLnRQ</urlsolve>
+                        </item>
+
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR]Alienigenas ancestrales [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -77,7 +100,7 @@
 
 
 <item>
-<title>[COLOR royalblue][COLOR white]• [/COLOR] [B]Grandes Batallas de la historia[/B][/COLOR]</title>
+<title>[COLOR white][COLOR blue]• [/COLOR]Grandes Batallas de la historia [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -117,7 +140,7 @@
 
 
 <item>
-<title>[COLOR royalblue][COLOR white]• [/COLOR] [B]Micro Asesinos[/B][/COLOR]</title>
+<title>[COLOR white][COLOR blue]• [/COLOR]Micro Asesinos [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -155,7 +178,7 @@
 </item>
 
 <item>
-<title>[COLOR royalblue][COLOR white]• [/COLOR] [B]Planeta Tierra II[/B][/COLOR]</title>
+<title>[COLOR white][COLOR blue]• [/COLOR]Planeta Tierra II [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -193,7 +216,7 @@
 </item>
 
 <item>
-<title>[COLOR royalblue][COLOR white]• [/COLOR] [B]Juegos mentales[/B][/COLOR]</title>
+<title>[COLOR white][COLOR blue]• [/COLOR]Juegos mentales [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -233,7 +256,7 @@
 
 
 <item>
-<title>[COLOR royalblue][COLOR white]• [/COLOR] [B]Segunda Guerra Mundial[/B][/COLOR]</title>
+<title>[COLOR white][COLOR blue]• [/COLOR]Segunda Guerra Mundial [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -271,7 +294,7 @@
 </item>
 
 <item>
-<title>[COLOR royalblue][COLOR white]• [/COLOR] [B]Marte[/B][/COLOR]</title>
+<title>[COLOR white][COLOR blue]• [/COLOR]Marte [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -309,7 +332,7 @@
 </item>
 
 <item>
-<title>[COLOR royalblue][COLOR white]• [/COLOR] [B]Caminando entre dinosaurios[/B][/COLOR]</title>
+<title>[COLOR white][COLOR blue]• [/COLOR]Caminando entre dinosaurios [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -347,7 +370,7 @@
 </item>
 
 <item>
-<title>[COLOR royalblue][COLOR white]• [/COLOR] [B]Ciudades bajo tierra[/B][/COLOR]</title>
+<title>[COLOR white][COLOR blue]• [/COLOR]Ciudades bajo tierra [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -385,7 +408,7 @@
 </item>
 
 <item>
-<title>[COLOR royalblue][COLOR white]• [/COLOR] [B]Primera Guerra Mundial[/B][/COLOR]</title>
+<title>[COLOR white][COLOR blue]• [/COLOR]Primera Guerra Mundial [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -423,7 +446,7 @@
 </item>
 
 <item>
-<title>[COLOR royalblue][COLOR white]• [/COLOR] [B]Misterios Ancestrales[/B][/COLOR]</title>
+<title>[COLOR white][COLOR blue]• [/COLOR]Misterios Ancestrales [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -461,7 +484,7 @@
 </item>
 
 <item>
-<title>[COLOR royalblue][COLOR white]• [/COLOR] [B]Secretos, mitos y misterios de la humanidad[/B][/COLOR]</title>
+<title>[COLOR white][COLOR blue]• [/COLOR]Secretos, mitos y misterios de la humanidad [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -501,7 +524,7 @@
 
 
 <item>
-<title>[COLOR royalblue][COLOR white]• [/COLOR] [B]N.A.S.A. archivos desclasificados[/B][/COLOR]</title>
+<title>[COLOR white][COLOR blue]• [/COLOR]N.A.S.A. archivos desclasificados [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -541,7 +564,7 @@
 
 
 <item>
-<title>[COLOR royalblue][COLOR white]• [/COLOR] [B] Varios Documentales [/B][/COLOR]</title>
+<title>[COLOR white][COLOR blue]• [/COLOR] Varios Documentales  [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
