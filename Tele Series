@@ -7,11 +7,28 @@
     <fanart></fanart>
         <items>
  
+http://jacobsen.cl/kodi/Series/Kosem/
 
+https://pastebin.com/raw/3G4h5RYE
 
+ <item>
+      <title>[COLOR cyan][COLOR  lime]•   [/COLOR]Kosem [/COLOR]</title>
+  <thumbnail>http://jacobsen.cl/kodi/Series/Kosem/poster.jpg</thumbnail>
+<fanart>http://jacobsen.cl/kodi/Series/Kosem/fanart.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/3G4h5RYE</externallink>
+</item>
+
+ <item>
+      <title>[COLOR cyan][COLOR  lime]•   [/COLOR]Ecos del desierto [/COLOR]</title>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>http://jacobsen.cl/kodi/Series/Ecos%20del%20desierto/</externallink>
+</item>
 
 <item>
-<title>[COLOR royalblue][COLOR white]• [/COLOR][B] La Reina del Sur [/COLOR]</title>
+<title>[COLOR cyan][COLOR  lime]•   [/COLOR] La Reina del Sur [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
