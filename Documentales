@@ -97,7 +97,43 @@
 <fanart>http://hanksrepublic.com/wp-content/uploads/2017/05/ravishing-ancient-aliens-wallpaper-hd-wallpapers.jpg</fanart>
 </item>
 
-
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR]Pasos de Cumbia [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+    <thumbnail>https://i.ytimg.com/vi/hEKhvF-Vxj4/maxresdefault.jpg</thumbnail>
+        <fanart>https://i.ytimg.com/vi/FEmgAuzxM1A/maxresdefault.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/mauro-fernandez/pasos-de-cumbia-93794</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/mauro-fernandez/pasos-de-cumbia-93794<referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/hEKhvF-Vxj4/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/FEmgAuzxM1A/maxresdefault.jpg</fanart>
+</item>
 
 <item>
 <title>[COLOR white][COLOR blue]• [/COLOR]Grandes Batallas de la historia [/COLOR]</title>
