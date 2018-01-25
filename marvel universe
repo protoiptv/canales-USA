@@ -72,12 +72,49 @@
                         <urlsolve>https://drive.google.com/open?id=0B-2doJouk31PYTR1TlU3SldIaWs</urlsolve>
                         </item>
                         
-                        <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] Wolverine Inmortal</title>
-                        <fanart>https://images8.alphacoders.com/511/511954.jpg</fanart>
-                        <thumbnail>http://3.bp.blogspot.com/-OH0X5RK7CcE/UcpzlSHCFpI/AAAAAAAAMAE/gDjSUx6ibks/s1600/Wolverine_Inmortal_New_Poster_latino_Oficial_JPosters.jpg</thumbnail>
-                        <urlsolve>https://drive.google.com/open?id=0B-2doJouk31PU3FWYkUzdDF4cGc</urlsolve>
+
+			
+			
+			<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Iron Man 3</title>
+                        <fanart>https://wallpapercave.com/wp/EcNfOSK.jpg</fanart>
+                        <thumbnail>http://static6.businessinsider.com/image/51fefd99eab8eafe33000019-1200-2000/iron%20man%203%20poster-1.jpg</thumbnail>
+                        <urlsolve>https://drive.google.com/open?id=17qVsBQ3V9v7YwpWQGXb4Qkeh1uO0ySAE</urlsolve>
                         </item>
+			
+			
+			<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Iron Man 2</title>
+                        <fanart>https://www.hdwallpapers.in/walls/iron_man_2_movie-normal.jpg</fanart>
+                        <thumbnail>https://vignette.wikia.nocookie.net/doblaje/images/5/56/Iron_Man_2_Poster.jpg/revision/latest?cb=20120712032006&path-prefix=es</thumbnail>
+                        <urlsolve>https://drive.google.com/open?id=1nMONYHlgcPvAV_AuSPnQYOS57-u3xGuX</urlsolve>
+                        </item>
+
+			
+			
+			<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Iron Man</title>
+                        <fanart>https://images.alphacoders.com/824/82401.jpg</fanart>
+                        <thumbnail>https://www.movieartarena.com/imgs/ironman1int.jpg</thumbnail>
+                        <urlsolve>https://drive.google.com/open?id=1JowGzQwBsA-wtzlghFPdE1Vb5dlVv_eg</urlsolve>
+                        </item>                      
+
+                        
+
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Hulk </title>
+                        <fanart>https://www.hdwallpapers.in/walls/hulk_movie-HD.jpg</fanart>
+                        <thumbnail>http://2.bp.blogspot.com/-7xPpdAmy_08/T6RP0nfgLOI/AAAAAAAACBM/dZmAqt3acqo/s1600/hulk2003degd8.jpg</thumbnail>
+                        <urlsolve>https://drive.google.com/open?id=1h_p9ZyZPuwT0Ra2kuEzL2xsKXIqKdCXZ</urlsolve>
+                        </item>
+			
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] deadpool</title>
+                        <fanart>https://wallpaperscraft.com/image/deadpool_marvel_comics_superhero_107251_1920x1080.jpg</fanart>
+                        <thumbnail>http://cinepremiere.impresionesaerea.netdna-cdn.com/noticias/2015/12-diciembre/deadpool-poster.jpg</thumbnail>
+                        <urlsolve>https://drive.google.com/open?id=0B-2doJouk31PWmNrVEtJVEJWVG8</urlsolve>
+                        </item>			
                         
                         
                          <item>
@@ -94,42 +131,15 @@
                         <thumbnail>http://www.fatmovieguy.com/wp-content/uploads/2016/03/X-Men-Apocalypse-Movie-Poster-Destroy-1.jpg</thumbnail>
                         <urlsolve>https://drive.google.com/open?id=0B-2doJouk31PYklBRFRLNEZBSHc</urlsolve>
                         </item>
-                        
+			
                         <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] deadpool</title>
-                        <fanart>https://wallpaperscraft.com/image/deadpool_marvel_comics_superhero_107251_1920x1080.jpg</fanart>
-                        <thumbnail>http://cinepremiere.impresionesaerea.netdna-cdn.com/noticias/2015/12-diciembre/deadpool-poster.jpg</thumbnail>
-                        <urlsolve>https://drive.google.com/open?id=0B-2doJouk31PWmNrVEtJVEJWVG8</urlsolve>
-                        </item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Wolverine Inmortal</title>
+                        <fanart>https://images8.alphacoders.com/511/511954.jpg</fanart>
+                        <thumbnail>http://3.bp.blogspot.com/-OH0X5RK7CcE/UcpzlSHCFpI/AAAAAAAAMAE/gDjSUx6ibks/s1600/Wolverine_Inmortal_New_Poster_latino_Oficial_JPosters.jpg</thumbnail>
+                        <urlsolve>https://drive.google.com/open?id=0B-2doJouk31PU3FWYkUzdDF4cGc</urlsolve>
+                        </item>			
+                        
+
 			
 			
-			<item>
-			<title>Planeta Hulk 1</title>
-			<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/50/17/41/5017419811443aa158b50b25c490b1d1.jpg</thumbnail>
-			<fanart>https://s-media-cache-ak0.pinimg.com/originals/11/ca/eb/11caeb45b8002617c03ab8d7df39411c.jpg</fanart>
-			      <link>$doregex[makelist]</link>
-			<regex>
-			      <name>makelist</name>
-			      <listrepeat><![CDATA[
-				       <title>6 grandes heroes</title>
-				       <link>$doregex[finalURL]</link>
-				       <thumbnail></thumbnail>
-							<fanart></fanart>
-			      ]]></listrepeat>
-			      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-			      <page>http://diskokosmiko.mx/plague_666/peliculas-animadas-marvel-19784/planet-hulk-01,69126.mp4</page>
-			      <cookieJar></cookieJar>
-			</regex>
-
-			<regex>
-			      <name>finalURL</name>
-			      <expres>Url":"(.*?)"</expres>
-			      <page>http://diskokosmiko.mx/[makelist.param2]</page>
-			      <rawpost>fileId=[makelist.param1]&__RequestVerificationToken=[makelist.param3]</rawpost>
-			      <referer>http://diskokosmiko.mx/plague_666/peliculas-animadas-marvel-19784/planet-hulk-01,69126.mp4</referer>
-			      <x-req>XMLHttpRequest</x-req>
-			      <cookiejar></cookiejar>
-			</regex>
-			</item>
-
-
+			
