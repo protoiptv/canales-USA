@@ -101,5 +101,35 @@
                         <thumbnail>http://cinepremiere.impresionesaerea.netdna-cdn.com/noticias/2015/12-diciembre/deadpool-poster.jpg</thumbnail>
                         <urlsolve>https://drive.google.com/open?id=0B-2doJouk31PWmNrVEtJVEJWVG8</urlsolve>
                         </item>
+			
+			
+			<item>
+			<title>Planeta Hulk 1</title>
+			<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/50/17/41/5017419811443aa158b50b25c490b1d1.jpg</thumbnail>
+			<fanart>https://s-media-cache-ak0.pinimg.com/originals/11/ca/eb/11caeb45b8002617c03ab8d7df39411c.jpg</fanart>
+			      <link>$doregex[makelist]</link>
+			<regex>
+			      <name>makelist</name>
+			      <listrepeat><![CDATA[
+				       <title>6 grandes heroes</title>
+				       <link>$doregex[finalURL]</link>
+				       <thumbnail></thumbnail>
+							<fanart></fanart>
+			      ]]></listrepeat>
+			      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+			      <page>http://diskokosmiko.mx/plague_666/peliculas-animadas-marvel-19784/planet-hulk-01,69126.mp4</page>
+			      <cookieJar></cookieJar>
+			</regex>
+
+			<regex>
+			      <name>finalURL</name>
+			      <expres>Url":"(.*?)"</expres>
+			      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+			      <rawpost>fileId=[makelist.param1]&__RequestVerificationToken=[makelist.param3]</rawpost>
+			      <referer>http://diskokosmiko.mx/</referer>
+			      <x-req>XMLHttpRequest</x-req>
+			      <cookiejar></cookiejar>
+			</regex>
+			</item>
 
 
