@@ -27,6 +27,46 @@ https://pastebin.com/raw/3G4h5RYE
    <externallink>https://raw.githubusercontent.com/protoiptv/canales-USA/master/ecos%20del%20desierto</externallink>
 </item>
 
+
+<item>
+<title>[COLOR cyan][COLOR  lime]•   [/COLOR] A través del tiempo [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white]  [makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://1.bp.blogspot.com/-I4wT6HFPn-4/WNk7TwtjvFI/AAAAAAAAp1Q/8ilBk9Gp3OUL0rSqt4pg5p2mNzjSrKNCACLcB/s320/hemdotempo.jpg</thumbnail>
+        <fanart>http://images2-mega.mdstrm.com/comercial/2017/09/22/1549_1_59c51c647a2e0.jpg?d=800x420</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/LadyBlue/a-traves-del-tiempo-telenovela-brasilena-66411</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/LadyBlue/a-traves-del-tiempo-telenovela-brasilena-66411<referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+        <thumbnail>https://1.bp.blogspot.com/-I4wT6HFPn-4/WNk7TwtjvFI/AAAAAAAAp1Q/8ilBk9Gp3OUL0rSqt4pg5p2mNzjSrKNCACLcB/s320/hemdotempo.jpg</thumbnail>
+        <fanart>http://images2-mega.mdstrm.com/comercial/2017/09/22/1549_1_59c51c647a2e0.jpg?d=800x420</fanart>
+</item>
+
+
 <item>
 <title>[COLOR cyan][COLOR  lime]•   [/COLOR] Totalmente diva P1 [/COLOR]</title>
 <link>$doregex[makelist]</link>
