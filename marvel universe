@@ -126,7 +126,7 @@
 			      <expres>Url":"(.*?)"</expres>
 			      <page>http://diskokosmiko.mx/[makelist.param2]</page>
 			      <rawpost>fileId=[makelist.param1]&__RequestVerificationToken=[makelist.param3]</rawpost>
-			      <referer>http://diskokosmiko.mx/</referer>
+			      <referer>http://diskokosmiko.mx/plague_666/peliculas-animadas-marvel-19784/planet-hulk-01,69126.mp4</referer>
 			      <x-req>XMLHttpRequest</x-req>
 			      <cookiejar></cookiejar>
 			</regex>
