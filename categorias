@@ -38,6 +38,548 @@
 			
 
 <item>
+<title>[COLOR cyan][COLOR  lime]•  [/COLOR]Poltergeist[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white]  [makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<thumbnail>https://orig00.deviantart.net/7452/f/2016/018/5/b/poltergeist_folder_icon_by_a_jaded_smithy-d9ofj4n.png</thumbnail>
+<fanart>https://images7.alphacoders.com/307/307195.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SHIRKAM/poltergeist-saga-77743</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SHIRKAM/poltergeist-saga-77743<referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://orig00.deviantart.net/7452/f/2016/018/5/b/poltergeist_folder_icon_by_a_jaded_smithy-d9ofj4n.png</thumbnail>
+<fanart>https://images7.alphacoders.com/307/307195.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR cyan][COLOR  lime]•  [/COLOR]Poltergeist[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white]  [makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<thumbnail>https://orig00.deviantart.net/7452/f/2016/018/5/b/poltergeist_folder_icon_by_a_jaded_smithy-d9ofj4n.png</thumbnail>
+<fanart>https://images7.alphacoders.com/307/307195.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SHIRKAM/poltergeist-saga-77743</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SHIRKAM/poltergeist-saga-77743<referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://orig00.deviantart.net/7452/f/2016/018/5/b/poltergeist_folder_icon_by_a_jaded_smithy-d9ofj4n.png</thumbnail>
+<fanart>https://images7.alphacoders.com/307/307195.jpg</fanart>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR cyan][COLOR  lime]•  [/COLOR]Locademia de Policia[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white]  [makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<thumbnail>https://orig00.deviantart.net/ac93/f/2013/143/2/d/police_academy_by_nacker1776-d66bco4.png</thumbnail>
+<fanart>http://images2.fanpop.com/images/photos/7200000/Police-Academy-police-academy-7239245-780-439.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SHIRKAM/loca-academia-de-policia-saga-87907</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SHIRKAM/loca-academia-de-policia-saga-87907<referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://orig00.deviantart.net/ac93/f/2013/143/2/d/police_academy_by_nacker1776-d66bco4.png</thumbnail>
+<fanart>http://images2.fanpop.com/images/photos/7200000/Police-Academy-police-academy-7239245-780-439.jpg</fanart>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR cyan][COLOR  lime]•  [/COLOR]Raphael de España[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white]  [makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<thumbnail>https://i.pinimg.com/736x/ed/94/61/ed946182248db97464f3baba21a4d2ab.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/nwqoVqvaZRE/maxresdefault.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SHIRKAM/raphael-peliculas-75931</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SHIRKAM/raphael-peliculas-75931<referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://i.pinimg.com/736x/ed/94/61/ed946182248db97464f3baba21a4d2ab.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/nwqoVqvaZRE/maxresdefault.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR cyan][COLOR  lime]•  [/COLOR]IP Man[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white]  [makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<thumbnail>https://orig00.deviantart.net/9163/f/2016/352/7/9/the_godfather_collection_folder_icon_by_dahlia069-das3k9k.png</thumbnail>
+<fanart>https://www.elplural.com/sites/default/files/field/image/maxresdefault_10.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SHIRKAM/ip-man-saga-48617</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SHIRKAM/ip-man-saga-48617<referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://orig00.deviantart.net/b799/f/2016/017/b/1/ip_man_folder_icon_by_a_jaded_smithy-d9oa2tx.png</thumbnail>
+<fanart>https://vignette2.wikia.nocookie.net/dishonoredvideogame/images/5/51/Ip_man_donnie_yen_desktop_hd_wallpaper-HD.jpg/revision/latest?cb=20130929194935</fanart>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR cyan][COLOR  lime]•  [/COLOR]El Padrino[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white]  [makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<thumbnail>https://orig00.deviantart.net/9163/f/2016/352/7/9/the_godfather_collection_folder_icon_by_dahlia069-das3k9k.png</thumbnail>
+<fanart>https://www.elplural.com/sites/default/files/field/image/maxresdefault_10.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SHIRKAM/el-padrino-saga-69347</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SHIRKAM/el-padrino-saga-69347<referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://orig00.deviantart.net/9163/f/2016/352/7/9/the_godfather_collection_folder_icon_by_dahlia069-das3k9k.png</thumbnail>
+<fanart>https://www.elplural.com/sites/default/files/field/image/maxresdefault_10.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR cyan][COLOR  lime]•  [/COLOR]Mision Imposible[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white]  [makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<thumbnail>https://orig00.deviantart.net/3cf9/f/2014/126/d/c/mission_impossible_icon_movie_folder_by_d4ni04-d7heeai.png</thumbnail>
+<fanart>http://s1.1zoom.me/big3/648/Mission_Impossible_Tom_442172.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SHIRKAM/mision-imposible-saga-49064</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SHIRKAM/mision-imposible-saga-49064<referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://orig00.deviantart.net/3cf9/f/2014/126/d/c/mission_impossible_icon_movie_folder_by_d4ni04-d7heeai.png</thumbnail>
+<fanart>http://s1.1zoom.me/big3/648/Mission_Impossible_Tom_442172.jpg</fanart>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR cyan][COLOR  lime]•  [/COLOR]Las Cronicas de Ridick[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white]  [makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<thumbnail>https://orig00.deviantart.net/c5da/f/2012/362/2/3/the_chronicles_of_riddick_by_feloman7-d5pg3ao.png</thumbnail>
+<fanart>http://www.fabuloussavers.com/new_wallpaper/VinDiesel_Riddick3_Movie_freecomputerdesktopwallpaper_1440.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SHIRKAM/las-cronicas-de-riddick-saga-70862</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SHIRKAM/las-cronicas-de-riddick-saga-70862<referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://orig00.deviantart.net/c5da/f/2012/362/2/3/the_chronicles_of_riddick_by_feloman7-d5pg3ao.png</thumbnail>
+<fanart>http://www.fabuloussavers.com/new_wallpaper/VinDiesel_Riddick3_Movie_freecomputerdesktopwallpaper_1440.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR cyan][COLOR  lime]•  [/COLOR]El Transportador[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white]  [makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<thumbnail>https://orig00.deviantart.net/bbd3/f/2016/352/b/b/transporter_folder_icon_by_dahlia069-das3jta.png</thumbnail>
+<fanart>https://images7.alphacoders.com/825/825451.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SHIRKAM/transporter-saga-48987</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SHIRKAM/transporter-saga-48987<referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://orig00.deviantart.net/bbd3/f/2016/352/b/b/transporter_folder_icon_by_dahlia069-das3jta.png</thumbnail>
+<fanart>https://images7.alphacoders.com/825/825451.jpg</fanart>
+</item>
+
+
+
+
+
+
+<item>
+<title>[COLOR cyan][COLOR  lime]•  [/COLOR]007[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white]  [makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<thumbnail>https://orig00.deviantart.net/9914/f/2015/178/9/2/007_folder_icon_by_darkzeye-d8yxgtm.png</thumbnail>
+<fanart>http://www.ncrcities.com/media/listing/orignal/121536-omega-sector-network-omega-detective-agency.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SHIRKAM/007-saga-46438</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SHIRKAM/007-saga-46438<referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://orig00.deviantart.net/9914/f/2015/178/9/2/007_folder_icon_by_darkzeye-d8yxgtm.png</thumbnail>
+<fanart>http://www.ncrcities.com/media/listing/orignal/121536-omega-sector-network-omega-detective-agency.jpg</fanart>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR cyan][COLOR  lime]•  [/COLOR]American Pie[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white]  [makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<thumbnail>https://t00.deviantart.net/VMZe2xs4sDhAwJ8WQdAoO_bhyhs=/fit-in/700x350/filters:fixed_height(100,100):origin()/pre00/3d4b/th/pre/f/2016/021/3/d/american_pie_movie_icon_by_a_jaded_smithy-d9orcq8.png</thumbnail>
+<fanart>https://i0.wallpaperscraft.com/image/american_pie_actors_people_4055_300x188.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SHIRKAM/american-pie-saga-64762</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SHIRKAM/american-pie-saga-64762<referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://t00.deviantart.net/VMZe2xs4sDhAwJ8WQdAoO_bhyhs=/fit-in/700x350/filters:fixed_height(100,100):origin()/pre00/3d4b/th/pre/f/2016/021/3/d/american_pie_movie_icon_by_a_jaded_smithy-d9orcq8.png</thumbnail>
+<fanart>https://i0.wallpaperscraft.com/image/american_pie_actors_people_4055_300x188.jpg</fanart>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR cyan][COLOR  lime]•  [/COLOR]American Pie[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white]  [makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<thumbnail>https://t00.deviantart.net/VMZe2xs4sDhAwJ8WQdAoO_bhyhs=/fit-in/700x350/filters:fixed_height(100,100):origin()/pre00/3d4b/th/pre/f/2016/021/3/d/american_pie_movie_icon_by_a_jaded_smithy-d9orcq8.png</thumbnail>
+<fanart>https://i0.wallpaperscraft.com/image/american_pie_actors_people_4055_300x188.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SHIRKAM/american-pie-saga-64762</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SHIRKAM/american-pie-saga-64762<referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://t00.deviantart.net/VMZe2xs4sDhAwJ8WQdAoO_bhyhs=/fit-in/700x350/filters:fixed_height(100,100):origin()/pre00/3d4b/th/pre/f/2016/021/3/d/american_pie_movie_icon_by_a_jaded_smithy-d9orcq8.png</thumbnail>
+<fanart>https://i0.wallpaperscraft.com/image/american_pie_actors_people_4055_300x188.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR cyan][COLOR  lime]•  [/COLOR]Resident Evil[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white]  [makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<thumbnail>https://orig00.deviantart.net/9ced/f/2016/316/7/a/resident_evil__the_final_chapter_folder_icon_by_nickohetenbern-dao4yse.png</thumbnail>
+<fanart>https://www.hdwallpapers.in/walls/resident_evil_6_milla_jovovich-wide.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SHIRKAM/resident-evil-saga-77744/list,1,1</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SHIRKAM/resident-evil-saga-77744/list,1,1<referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://orig00.deviantart.net/9ced/f/2016/316/7/a/resident_evil__the_final_chapter_folder_icon_by_nickohetenbern-dao4yse.png</thumbnail>
+<fanart>https://www.hdwallpapers.in/walls/resident_evil_6_milla_jovovich-wide.jpg</fanart>
+</item>
+
+
+
+
+
+<item>
 <title>[COLOR cyan][COLOR  lime]•  [/COLOR]Indiana Jones Collections[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -74,6 +616,7 @@
 <thumbnail>https://orig00.deviantart.net/fbc6/f/2017/109/a/9/indiana_jones_collection_folder_icon_by_dahlia069-db6d5vl.png</thumbnail>
 <fanart>https://i.imgur.com/Z9F2EhS.jpg</fanart>
 </item>
+
 
 
 <item>
