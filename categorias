@@ -35,21 +35,21 @@
                         <externallink>https://raw.githubusercontent.com/protoiptv/canales-USA/master/marvel%20universe</externallink>
                         </item>
 			
-			
+
 
 <item>
-<title>[COLOR cyan][COLOR  lime]•  [/COLOR]Poltergeist[/COLOR]</title>
+<title>[COLOR cyan][COLOR  lime]•  [/COLOR]Destino Final[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
         <title>[COLOR white]  [makelist.param3][/COLOR]</title>
         <link>$doregex[getUrl]</link>
-<thumbnail>https://orig00.deviantart.net/7452/f/2016/018/5/b/poltergeist_folder_icon_by_a_jaded_smithy-d9ofj4n.png</thumbnail>
-<fanart>https://images7.alphacoders.com/307/307195.jpg</fanart>
+<thumbnail>https://orig00.deviantart.net/9255/f/2013/364/7/e/barbie_folder_icon_by_alicegirl77-d704gva.png</thumbnail>
+<fanart>http://www.hd-freeimages.com/uploads/large/barbie-wallpaper/wildscreen-hd-barbie-wallpaper.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/SHIRKAM/poltergeist-saga-77743</page>
+<page>http://diskokosmiko.mx/SHIRKAM/destino-final-saga-77741</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -67,13 +67,181 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/SHIRKAM/poltergeist-saga-77743<referer>
+<referer>http://diskokosmiko.mx/SHIRKAM/destino-final-saga-77741<referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://orig00.deviantart.net/7452/f/2016/018/5/b/poltergeist_folder_icon_by_a_jaded_smithy-d9ofj4n.png</thumbnail>
-<fanart>https://images7.alphacoders.com/307/307195.jpg</fanart>
+<thumbnail>https://orig00.deviantart.net/9255/f/2013/364/7/e/barbie_folder_icon_by_alicegirl77-d704gva.png</thumbnail>
+<fanart>http://www.hd-freeimages.com/uploads/large/barbie-wallpaper/wildscreen-hd-barbie-wallpaper.jpg</fanart>
 </item>
+
+
+
+
+<item>
+<title>[COLOR cyan][COLOR  lime]•  [/COLOR]Las Cronicas de Narnia[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white]  [makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<thumbnail>https://orig00.deviantart.net/9437/f/2017/108/9/6/the_chronicles_of_narnia_collection_folder_icon_by_dahlia069-db6augx.png</thumbnail>
+<fanart>http://thewallpaper.co/wp-content/uploads/2017/08/narnia-desktop-wallpapersnarnia-book-free-chronicles-series-adventure-disney-family-fantasy-amazing-tablet.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SHIRKAM/las-cronicas-de-narnia-saga-74103</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SHIRKAM/las-cronicas-de-narnia-saga-74103<referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://orig00.deviantart.net/9437/f/2017/108/9/6/the_chronicles_of_narnia_collection_folder_icon_by_dahlia069-db6augx.png</thumbnail>
+<fanart>http://thewallpaper.co/wp-content/uploads/2017/08/narnia-desktop-wallpapersnarnia-book-free-chronicles-series-adventure-disney-family-fantasy-amazing-tablet.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR cyan][COLOR  lime]•  [/COLOR]Barbie[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white]  [makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<thumbnail>https://orig00.deviantart.net/9255/f/2013/364/7/e/barbie_folder_icon_by_alicegirl77-d704gva.png</thumbnail>
+<fanart>http://www.hd-freeimages.com/uploads/large/barbie-wallpaper/wildscreen-hd-barbie-wallpaper.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SHIRKAM/barbie-saga-89317/list,1,2</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SHIRKAM/barbie-saga-89317/list,1,2<referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://orig00.deviantart.net/9255/f/2013/364/7/e/barbie_folder_icon_by_alicegirl77-d704gva.png</thumbnail>
+<fanart>http://www.hd-freeimages.com/uploads/large/barbie-wallpaper/wildscreen-hd-barbie-wallpaper.jpg</fanart>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR cyan][COLOR  lime]•  [/COLOR]El Planeta de los simios - collection[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white]  [makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<thumbnail>https://orig00.deviantart.net/bb31/f/2016/354/6/2/planet_of_the_apes_collection_folder_icon_by_dahlia069-dasbdp1.png</thumbnail>
+<fanart>https://wallpapersite.com/images/wallpapers/caesar-4300x2034-war-for-the-planet-of-the-apes-2017-movies-hd-4k-2914.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SHIRKAM/el-planeta-de-los-simios-saga-70861</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SHIRKAM/el-planeta-de-los-simios-saga-70861<referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://orig00.deviantart.net/bb31/f/2016/354/6/2/planet_of_the_apes_collection_folder_icon_by_dahlia069-dasbdp1.png</thumbnail>
+<fanart>https://wallpapersite.com/images/wallpapers/caesar-4300x2034-war-for-the-planet-of-the-apes-2017-movies-hd-4k-2914.jpg</fanart>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR cyan][COLOR  lime]•  [/COLOR]La Historia sin Fin[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR white]  [makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<thumbnail>https://orig00.deviantart.net/a69b/f/2018/017/3/5/the_neverending_story_folder_icon_by_dahlia069-dbqfgvf.png</thumbnail>
+<fanart>https://wallpapercave.com/wp/WSpVjHt.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SHIRKAM/la-historia-interminable-saga-74135</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SHIRKAM/la-historia-interminable-saga-74135<referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://orig00.deviantart.net/a69b/f/2018/017/3/5/the_neverending_story_folder_icon_by_dahlia069-dbqfgvf.png</thumbnail>
+<fanart>https://wallpapercave.com/wp/WSpVjHt.jpg</fanart>
+</item>
+
+
 
 
 
@@ -455,18 +623,18 @@
 
 
 <item>
-<title>[COLOR cyan][COLOR  lime]•  [/COLOR]American Pie[/COLOR]</title>
+<title>[COLOR cyan][COLOR  lime]•  [/COLOR]Hombres de Negro[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
         <title>[COLOR white]  [makelist.param3][/COLOR]</title>
         <link>$doregex[getUrl]</link>
-<thumbnail>https://t00.deviantart.net/VMZe2xs4sDhAwJ8WQdAoO_bhyhs=/fit-in/700x350/filters:fixed_height(100,100):origin()/pre00/3d4b/th/pre/f/2016/021/3/d/american_pie_movie_icon_by_a_jaded_smithy-d9orcq8.png</thumbnail>
-<fanart>https://i0.wallpaperscraft.com/image/american_pie_actors_people_4055_300x188.jpg</fanart>
+<thumbnail>http://icons.iconarchive.com/icons/aaron-sinuhe/tv-movie-folder/512/MIB-1-icon.png</thumbnail>
+<fanart>https://images4.alphacoders.com/696/thumb-350-696823.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/SHIRKAM/american-pie-saga-64762</page>
+<page>http://diskokosmiko.mx/SHIRKAM/men-in-black-saga-70891</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -484,12 +652,12 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/SHIRKAM/american-pie-saga-64762<referer>
+<referer>http://diskokosmiko.mx/SHIRKAM/men-in-black-saga-70891<referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://t00.deviantart.net/VMZe2xs4sDhAwJ8WQdAoO_bhyhs=/fit-in/700x350/filters:fixed_height(100,100):origin()/pre00/3d4b/th/pre/f/2016/021/3/d/american_pie_movie_icon_by_a_jaded_smithy-d9orcq8.png</thumbnail>
-<fanart>https://i0.wallpaperscraft.com/image/american_pie_actors_people_4055_300x188.jpg</fanart>
+<thumbnail>http://icons.iconarchive.com/icons/aaron-sinuhe/tv-movie-folder/512/MIB-1-icon.png</thumbnail>
+<fanart>https://images4.alphacoders.com/696/thumb-350-696823.jpg</fanart>
 </item>
 
 
