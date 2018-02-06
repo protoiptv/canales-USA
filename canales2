@@ -1,27 +1,5 @@
 #EXTM3U
 
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9FH61FY.png" group-title="IPTV",MEGAPLAY
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x850zXq.png" group-title="IPTV",IPTV61W
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e2ldJmN.png" group-title="IPTV",IPTVCHILE
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KdWNOqC.png" group-title="IPTV",W-SU HD
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jR0Qz9N.png" group-title="IPTV",IPTV5REGION
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CVPoxpy.png" group-title="IPTV",VEOPLAY
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SUxgG7s.png" group-title="IPTV",LATIN TV
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OZ5z9qo.png" group-title="IPTV",POWERIPTV
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://colegiopah.cl/plat/wp-content/uploads/2017/06/calendar.png" group-title="IPTV",MES DE FEBRERO
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-
-
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/logo1_zpskeh6nk1u.png" group-title="",Fm Hot Tv Santiago
 rtmp://evo.eltelon.com:1935/live/fm-hot-tv
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/32679_zpskreromvk.png" group-title="",PortalFoxMix Tv Santiago
