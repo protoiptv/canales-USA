@@ -1,13 +1,34 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/logo1_zpskeh6nk1u.png" group-title="REGIONALES",Fm Hot Tv Santiago
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9FH61FY.png" group-title="IPTV",MEGAPLAY
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x850zXq.png" group-title="IPTV",IPTV61W
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e2ldJmN.png" group-title="IPTV",IPTVCHILE
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KdWNOqC.png" group-title="IPTV",W-SU HD
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jR0Qz9N.png" group-title="IPTV",IPTV5REGION
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CVPoxpy.png" group-title="IPTV",VEOPLAY
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SUxgG7s.png" group-title="IPTV",LATIN TV
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OZ5z9qo.png" group-title="IPTV",POWERIPTV
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+#EXTINF:-1 tvg-logo="https://colegiopah.cl/plat/wp-content/uploads/2017/06/calendar.png" group-title="IPTV",MES DE FEBRERO
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/logo1_zpskeh6nk1u.png" group-title="",Fm Hot Tv Santiago
 rtmp://evo.eltelon.com:1935/live/fm-hot-tv
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/32679_zpskreromvk.png" group-title="REGIONALES",PortalFoxMix Tv Santiago
+#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/32679_zpskreromvk.png" group-title="",PortalFoxMix Tv Santiago
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/logo_head_zps7e04gkdx.png" group-title="REGIONALES",NIU Tv Santiago
+#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/logo_head_zps7e04gkdx.png" group-title="",NIU Tv Santiago
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist_w224088368_b750000_slesp.m3u8
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/uestv_zps6rhz9hno.png" group-title="REGIONALES",Uestv Santiago
+#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/uestv_zps6rhz9hno.png" group-title="",Uestv Santiago
 http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/sentildealuv_zpsyc3mmrcp.png" group-title="REGIONALES",Senal Uc Santiago
 http://www.senaluc.cl:80/playlist/stream.m3u8?s=vdmfcom
@@ -21,6 +42,8 @@ https://cdn.younow.com/php/api/broadcast/videoPath/hls=1/broadcastId=176339592_l
 http://tecnotv.xyz/simpson1.php
 #EXTINF:-1 tvg-logo="https://imgur.com/cdXmXtl.jpg" group-title="24/7",Futurama
 http://tecnotv.xyz/futurama1.php
+#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/logo1_zpskeh6nk1u.png" group-title="",Dragon Ball
+http://iptv.urlfb.com/listas-m3u/dbs.m3u
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento", FOX ES
 http://185.231.160.42/647/2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="Entretenimiento", TC 
