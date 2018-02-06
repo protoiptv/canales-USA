@@ -1,0 +1,11 @@
+name="Kodi 16.1 Jarvis"
+url=""
+img=""
+fanart=""
+description=""
+
+name="Kodi 17.3 Krypton"
+url=""
+img=""
+fanart=""
+description=""
