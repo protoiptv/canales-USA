@@ -39,66 +39,14 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 http://ar.watcha.live/ch17/hi.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cine", Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
-#EXTINF:-1 tvg-logo="http://cdn.kidscreen.com/wp/wp-content/uploads/2011/02/BabyTV_Logo_TM-300x215.png" group-title="Infantil", Baby TV 
-http://iptv.premiumtutv.com/canal_50_cbeebies.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mw5bY/e2bab1e46e.png" group-title="Infantil", Tiin
-http://iptv.premiumtutv.com/canal_40_tiin.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mw5oi/09350aa9a0.png" group-title="Infantil", Tooncast
-http://iptv.premiumtutv.com/canal_31_tooncast.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mw57k/d21813a8f6.png" group-title="Infantil", Nick JR
-http://iptv.premiumtutv.com/canal_49_nickjr.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reRXX/7e741b9363.png" group-title="Infantil", Discovery Kids
-http://iptv.premiumtutv.com/canal_22_discoverykids.m3u8 
-#EXTINF:-1 tvg-logo="http://puu.sh/reSoT/ff01278d6c.png" group-title="Infantil", Disney Channel
-http://iptv.premiumtutv.com/canal_20_disneychannel.m3u8 
-#EXTINF:-1 tvg-logo="http://puu.sh/reSpf/d906cbcd81.png" group-title="Infantil", Disney Jr
-http://iptv.premiumtutv.com/canal_25_disneyjr.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="Infantil", Disney JR Opc 2
-http://p5.iptvprivateserver.tv/live/139314383138/XSxd1wC6N8/191.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reSum/21ca73f9ad.png" group-title="Infantil", Disney XD
-http://iptv.premiumtutv.com/canal_30_disneyxd.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reMA0/0021d6fded.png" group-title="Infantil", Boomerang
-http://iptv.premiumtutv.com/canal_51_boomerang.m3u8 
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/cartoon-network.gif" group-title="Infantil", Cartoon Network
-http://iptv.premiumtutv.com/canal_16_cartoonnetwork.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Infantil", Disney Jr ES
-http://185.231.160.42/643/2/index.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-YU6tpGgbodw/WVr42oxkkWI/AAAAAAAACXo/OjSf27YJiZ4szRUhrSmuXUC6eo7Tpc3HACLcBGAs/s640/18881845_1689128821389050_7148178865498555867_n.png" group-title="Infantil", NatGeo Kids
-http://iptv.premiumtutv.com/canal_132_natgeokids.m3u8
+
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-iwUTtOMzaiE/U08TQLhmUEI/AAAAAAAAGno/uaCpUitGnG4/s1600/NatsuHen-Locomotion+logo.gif" group-title="Infantil", Locomotion
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Infantil", Animax
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 #EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/lifetime.gif" group-title="CULTURA", Lifetime
 http://iptv.premiumtutv.com/canal_34_lifetime.m3u8 
-#EXTINF:-1 tvg-logo="http://puu.sh/mb2Rd/9c56f73248.png" group-title="CULTURA", NatGeo Wild
-http://iptv.premiumtutv.com/canal_82_natgeowild.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/msJjE/f96602e474.png" group-title="CULTURA", NatGeo
-http://iptv.premiumtutv.com/canal_23_natgeo.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/m9UfE/5bb8480ed7.png" group-title="CULTURA", History
-http://iptv.premiumtutv.com/canal_83_history.m3u8
-#EXTINF:-1 tvg-logo="http://i2.wp.com/queenslatino.com/wp-content/uploads/2011/09/Nat-Geo-Mundo.jpg" group-title="CULTURA", NatGeo Mundo
-http://iptv.premiumtutv.com/canal_98_foxnatgeo.m3u8 
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/14.png" group-title="CULTURA", Investigation Discovery
-http://iptv.premiumtutv.com/canal_65_investigacindiscovery.m3u8
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/CULTURA/14.png" group-title="CULTURA", Discovery TLC
-http://iptv.premiumtutv.com/canal_105_tlc.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reS0X/3496f4a93c.png" group-title="CULTURA", Discovery World 
-http://iptv.premiumtutv.com/canal_87_discoveryworld.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reRZC/14ff477422.png" group-title="CULTURA", Discovery Turbo
-http://iptv.premiumtutv.com/canal_63_discoveryturbo.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reRZf/b724b419e5.png" group-title="CULTURA", Discovery Theater
-http://iptv.premiumtutv.com/canal_64_discoverytheater.m3u8 
-#EXTINF:-1 tvg-logo="http://www.roastbrief.com.mx/wp-content/uploads/2011/10/Discovery-Science-Logo-640x239.jpg", Discovery Science
-http://iptv.premiumtutv.com/canal_62_discoveryscience.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reRWX/1a8a31aab2.png" group-title="CULTURA", Discovery H&H
-http://iptv.premiumtutv.com/canal_66_homeandhealth.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reRVX/09b104b39b.png" group-title="CULTURA", Discovery Civilization
-http://iptv.premiumtutv.com/canal_61_discoverycivilization.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/reRUc/d3099fe256.png" group-title="CULTURA", Discovery Channel
-http://iptv.premiumtutv.com/canal_19_discoverychannel.m3u8 
-#EXTINF:-1 tvg-logo="http://puu.sh/reJpA/bdc45a314f.png" group-title="CULTURA", Animal Planet
-http://iptv.premiumtutv.com/canal_28_animalplanet.m3u8 
+
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/aprende_tv.jpg" group-title="Cultura", Aprende TV
 http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0016/8006/brand.gif?itok=BT51x1EP" group-title="Cultura", Sun Channel
