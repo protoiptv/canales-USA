@@ -371,13 +371,13 @@
       
       
       <item>
-<title>[COLOR royalblue][COLOR white]• [/COLOR] [B]Dragon Ball Super[/B][/COLOR]</title>
+<title>[COLOR cyan][COLOR  lime]•  [/COLOR]Dragon Ball Super[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>[COLOR royalblue][COLOR white]Zihua[/COLOR][B]Flix[/B][/COLOR] [COLOR red][makelist.param3][/COLOR][COLOR red]  [makelist.param3][/COLOR]</title>
-        <link>$doregex[getUrl]</link>
+<title>[COLOR white]  [makelist.param3][/COLOR]</title>
+<link>$doregex[getUrl]</link>
     <thumbnail>http://orig12.deviantart.net/e78d/f/2015/198/8/e/dragon_ball_super_folder_icon_by_uchihadjpasindu-d91nnyp.png</thumbnail>
         <fanart>http://cdn.wallpapersafari.com/72/90/huNcCL.jpg</fanart>
         ]]></listrepeat>
@@ -411,13 +411,13 @@
 
 
       <item>
-<title>[COLOR royalblue][COLOR white]• [/COLOR] [B]Peliculas y OVAS Dragon Ball[/B][/COLOR]</title>
+<title>[COLOR cyan][COLOR  lime]•  [/COLOR]Peliculas y OVAS Dragon Ball[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>[COLOR royalblue][COLOR white]Zihua[/COLOR][B]Flix[/B][/COLOR] [COLOR red][makelist.param3][/COLOR][COLOR red]  [makelist.param3][/COLOR]</title>
-        <link>$doregex[getUrl]</link>
+<title>[COLOR white]  [makelist.param3][/COLOR]</title>
+<link>$doregex[getUrl]</link>
     <thumbnail>https://orig00.deviantart.net/277c/f/2016/014/7/0/dragon_ball_z___icon_folder__02_by_fayersparks-d9nxoke.png</thumbnail>
         <fanart>http://a-tamashi.net/wp-content/uploads/2016/09/Dragon-Ball-Z-Extreme-Budoten.jpg</fanart>
         ]]></listrepeat>
