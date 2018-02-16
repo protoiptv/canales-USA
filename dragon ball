@@ -1,0 +1,452 @@
+<channel>
+    <name>          <<<<<<<<<Dragon Ball>>>>>>>></name>
+    <thumbnail>https://orig00.deviantart.net/7c56/f/2014/210/7/8/dragon_ball_z___icon_folder_by_ubagutobr-d7sthhw.png</thumbnail>
+    <fanart>https://pm1.narvii.com/6356/8012b15e31968cf9b1d50f362bae68b96e6cac4b_hq.jpg</fanart>
+        <items>
+        
+                        <item><title>[COLOR=yellow]                                      <<[/COLOR][COLOR=yellow]Dragon Ball[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://protobox.cl</link></item>
+ 
+    
+			
+     
+			
+			
+			<item>
+			<title>[COLOR cyan][COLOR  lime]•  [/COLOR]Dragon Ball[/COLOR]</title>
+			<link>$doregex[makelist]</link>
+			<regex>
+			  <name>makelist</name>
+			  <listrepeat><![CDATA[
+				<title>[COLOR white]  [makelist.param3][/COLOR]</title>
+				<link>$doregex[getUrl]</link>
+			<thumbnail>https://orig00.deviantart.net/181f/f/2014/210/1/a/dragon_ball___icon_folder_by_ubagutobr-d7sthes.png</thumbnail>
+			<fanart>https://www.imgbase.info/images/safe-wallpapers/anime/dragon_ball_z/12552_dragon_ball_z.jpg</fanart>
+				]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/titotv/dragon-ball-espanol-latino-1159/list,1,7</page>
+			<cookieJar></cookieJar>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+			</regex>
+			<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx/titotv/dragon-ball-espanol-latino-1159/list,1,7<referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+			</regex>
+			<thumbnail>https://orig00.deviantart.net/181f/f/2014/210/1/a/dragon_ball___icon_folder_by_ubagutobr-d7sthes.png</thumbnail>
+			<fanart>https://www.imgbase.info/images/safe-wallpapers/anime/dragon_ball_z/12552_dragon_ball_z.jpg</fanart>
+			</item>
+			
+			
+      
+      <item>
+			<title>[COLOR cyan][COLOR  lime]•  [/COLOR]Dragon Ball Z La saga de los sayayin[/COLOR]</title>
+			<link>$doregex[makelist]</link>
+			<regex>
+			  <name>makelist</name>
+			  <listrepeat><![CDATA[
+				<title>[COLOR white]  [makelist.param3][/COLOR]</title>
+				<link>$doregex[getUrl]</link>
+			<thumbnail>https://pre00.deviantart.net/963e/th/pre/f/2016/156/d/8/dragon_ball_z_folder_icon_by_thepi7on-da54mk2.png</thumbnail>
+			<fanart>http://wallarthd.com/wp-content/uploads/2014/08/Best-Dargon-Ball-Z-Games-Wallpaper-HD-127.jpg</fanart>
+				]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/Animegoku18/dragon-ball-z-saga-de-los-sayayin-14023/list,1,2</page>
+			<cookieJar></cookieJar>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+			</regex>
+			<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx/Animegoku18/dragon-ball-z-saga-de-los-sayayin-14023/list,1,2<referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+			</regex>
+			<thumbnail>https://pre00.deviantart.net/963e/th/pre/f/2016/156/d/8/dragon_ball_z_folder_icon_by_thepi7on-da54mk2.png</thumbnail>
+			<fanart>http://wallarthd.com/wp-content/uploads/2014/08/Best-Dargon-Ball-Z-Games-Wallpaper-HD-127.jpg</fanart>
+			</item>
+			
+			<item>
+			<title>[COLOR cyan][COLOR  lime]•  [/COLOR]Dragon ball Z la saga de freezer[/COLOR]</title>
+			<link>$doregex[makelist]</link>
+			<regex>
+			  <name>makelist</name>
+			  <listrepeat><![CDATA[
+				<title>[COLOR white]  [makelist.param3][/COLOR]</title>
+				<link>$doregex[getUrl]</link>
+			<thumbnail>http://s26.postimg.org/avlkodejd/dragon_ball_z_by_rest_in_torment_d8zt7f9.png</thumbnail>
+			<fanart>https://pm1.narvii.com/6424/195e8921bbe5b2a57ee6ff128bd3923ac5e99212_hq.jpg</fanart>
+				]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/Animegoku18/dragon-ball-z-saga-de-freezer-14025/list,1,3</page>
+			<cookieJar></cookieJar>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+			</regex>
+			<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx/Animegoku18/dragon-ball-z-saga-de-freezer-14025/list,1,3<referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+			</regex>
+			<thumbnail>http://s26.postimg.org/avlkodejd/dragon_ball_z_by_rest_in_torment_d8zt7f9.png</thumbnail>
+			<fanart>https://pm1.narvii.com/6424/195e8921bbe5b2a57ee6ff128bd3923ac5e99212_hq.jpg</fanart>
+			</item>
+      
+      
+      <item>
+			<title>[COLOR cyan][COLOR  lime]•  [/COLOR]Dragon Ball Z La saga de Garlick JR[/COLOR]</title>
+			<link>$doregex[makelist]</link>
+			<regex>
+			  <name>makelist</name>
+			  <listrepeat><![CDATA[
+				<title>[COLOR white]  [makelist.param3][/COLOR]</title>
+				<link>$doregex[getUrl]</link>
+			<thumbnail>http://www.icons101.com/icon_png/size_512/id_70544/Garlic_jr_Saga_DBZ.png</thumbnail>
+			<fanart>https://i.ytimg.com/vi/Uk5vqjG9KV0/maxresdefault.jpg</fanart>
+				]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/Animegoku18/dragon-ball-z-saga-de-garlick-jr-14031</page>
+			<cookieJar></cookieJar>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+			</regex>
+			<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx/Animegoku18/dragon-ball-z-saga-de-garlick-jr-14031<referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+			</regex>
+			<thumbnail>http://www.icons101.com/icon_png/size_512/id_70544/Garlic_jr_Saga_DBZ.png</thumbnail>
+			<fanart>https://images5.alphacoders.com/523/thumb-1920-523395.jpg</fanart>
+			</item>
+			
+			
+			
+			
+			
+			
+      
+      <item>
+			<title>[COLOR cyan][COLOR  lime]•  [/COLOR]Dragon ball Z Saga de los Androides[/COLOR]</title>
+			<link>$doregex[makelist]</link>
+			<regex>
+			  <name>makelist</name>
+			  <listrepeat><![CDATA[
+				<title>[COLOR white]  [makelist.param3][/COLOR]</title>
+				<link>$doregex[getUrl]</link>
+			<thumbnail>https://orig00.deviantart.net/5990/f/2014/005/8/f/dbz_androids_saga_colorflow_by_turtle85-d70zy52.png</thumbnail>
+			<fanart>https://pre00.deviantart.net/69d1/th/pre/f/2016/187/5/f/androids_17___18_wallpaper_by_superagua-da9078o.jpg</fanart>
+				]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/Animegoku18/dragon-ball-z-saga-de-los-androides-14034</page>
+			<cookieJar></cookieJar>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+			</regex>
+			<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx/Animegoku18/dragon-ball-z-saga-de-los-androides-14034<referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+			</regex>
+			<thumbnail>https://orig00.deviantart.net/5990/f/2014/005/8/f/dbz_androids_saga_colorflow_by_turtle85-d70zy52.png</thumbnail>
+			<fanart>https://pre00.deviantart.net/69d1/th/pre/f/2016/187/5/f/androids_17___18_wallpaper_by_superagua-da9078o.jpg</fanart>
+			</item>
+			
+			<item>
+			<title>[COLOR cyan][COLOR  lime]•  [/COLOR]Dragon ball Z Saga de Cell[/COLOR]</title>
+			<link>$doregex[makelist]</link>
+			<regex>
+			  <name>makelist</name>
+			  <listrepeat><![CDATA[
+				<title>[COLOR white]  [makelist.param3][/COLOR]</title>
+				<link>$doregex[getUrl]</link>
+			<thumbnail>https://orig00.deviantart.net/0da7/f/2014/005/3/a/dbz_cell_saga_colorflow_by_turtle85-d710dl3.png</thumbnail>
+			<fanart>http://www.wallpaperk.com/wallpapers/dragon-ball-z-animado-4976.jpg</fanart>
+				]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/Animegoku18/dragon-ball-z-saga-de-cell-14035</page>
+			<cookieJar></cookieJar>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+			</regex>
+			<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx/Animegoku18/dragon-ball-z-saga-de-cell-14035<referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+			</regex>
+			<thumbnail>https://orig00.deviantart.net/0da7/f/2014/005/3/a/dbz_cell_saga_colorflow_by_turtle85-d710dl3.png</thumbnail>
+			<fanart>http://www.wallpaperk.com/wallpapers/dragon-ball-z-animado-4976.jpg</fanart>
+			</item>
+      
+      
+      
+			
+			
+						<item>
+			<title>[COLOR cyan][COLOR  lime]•  [/COLOR]Dragon ball Z Saga del gran sayaman[/COLOR]</title>
+			<link>$doregex[makelist]</link>
+			<regex>
+			  <name>makelist</name>
+			  <listrepeat><![CDATA[
+				<title>[COLOR white]  [makelist.param3][/COLOR]</title>
+				<link>$doregex[getUrl]</link>
+			<thumbnail>https://vignette.wikia.nocookie.net/dbz-dokkanbattle/images/5/57/Thum_1009280.png/revision/latest?cb=20161026121233</thumbnail>
+			<fanart>https://i.ytimg.com/vi/NrzOEqkQQK4/maxresdefault.jpg</fanart>
+				]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/SeriesHD/06-dragon-ball-z-saga-del-gran-saiyaman-38287</page>
+			<cookieJar></cookieJar>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+			</regex>
+			<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx/SeriesHD/06-dragon-ball-z-saga-del-gran-saiyaman-38287<referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+			</regex>
+			<thumbnail>https://vignette.wikia.nocookie.net/dbz-dokkanbattle/images/5/57/Thum_1009280.png/revision/latest?cb=20161026121233</thumbnail>
+			<fanart>https://i.ytimg.com/vi/NrzOEqkQQK4/maxresdefault.jpg</fanart>
+			</item>
+      
+      
+      
+      <item>
+			<title>[COLOR cyan][COLOR  lime]•  [/COLOR]Dragon ball La saga de majin buu[/COLOR]</title>
+			<link>$doregex[makelist]</link>
+			<regex>
+			  <name>makelist</name>
+			  <listrepeat><![CDATA[
+				<title>[COLOR white]  [makelist.param3][/COLOR]</title>
+				<link>$doregex[getUrl]</link>
+			<thumbnail>https://orig00.deviantart.net/7215/f/2014/101/a/2/buu_saga_by_turtle85-d7e0v7i.png</thumbnail>
+			<fanart>https://vignette.wikia.nocookie.net/dbz-dokkanbattle/images/a/aa/0tZcHj2-majin-buu-wallpapers.png/revision/latest?cb=20161124184919</fanart>
+				]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/Animegoku18/dragon-ball-z-saga-de-majin-buu-14036/list,1,4</page>
+			<cookieJar></cookieJar>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+			</regex>
+			<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx/Animegoku18/dragon-ball-z-saga-de-majin-buu-14036/list,1,4<referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+			</regex>
+			<thumbnail>https://orig00.deviantart.net/7215/f/2014/101/a/2/buu_saga_by_turtle85-d7e0v7i.png</thumbnail>
+			<fanart>https://vignette.wikia.nocookie.net/dbz-dokkanbattle/images/a/aa/0tZcHj2-majin-buu-wallpapers.png/revision/latest?cb=20161124184919</fanart>
+			</item>
+      
+      
+      <item>
+			<title>[COLOR cyan][COLOR  lime]•  [/COLOR]Dragon ball GT[/COLOR]</title>
+			<link>$doregex[makelist]</link>
+			<regex>
+			  <name>makelist</name>
+			  <listrepeat><![CDATA[
+				<title>[COLOR white]  [makelist.param3][/COLOR]</title>
+				<link>$doregex[getUrl]</link>
+			<thumbnail>https://img00.deviantart.net/7c2f/i/2015/298/d/c/dragon_ball_gt_folder_icon_v2_by_darknnysynister-d9edu11.png</thumbnail>
+			<fanart>http://goldwallpapers.com/uploads/posts/dragon-ball-z-gt-wallpapers/dragon_ball_z_gt_wallpapers_001.jpg</fanart>
+				]]></listrepeat>
+			<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+			<page>http://diskokosmiko.mx/Animegoku18/dragon-ball-gt-todos-los-capitulos-14046/list,1,3</page>
+			<cookieJar></cookieJar>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>DownloadUrl":"([^"]+)<expres>
+			<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+			<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+			<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+			<connection>keep-alive</connection>
+			<accept>*/*</accept>
+			<X-Req>XMLHttpRequest</X-Req>
+			<cookieJar></cookieJar>
+			</regex>
+			<regex>
+			<name>tok</name>
+			<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+			<page>http://diskokosmiko.mx/[makelist.param2]</page>
+			<referer>http://diskokosmiko.mx/Animegoku18/dragon-ball-gt-todos-los-capitulos-14046/list,1,3<referer>
+			<connection>keep-alive</connection>
+			<cookieJar></cookieJar>
+			</regex>
+			<thumbnail>https://img00.deviantart.net/7c2f/i/2015/298/d/c/dragon_ball_gt_folder_icon_v2_by_darknnysynister-d9edu11.png</thumbnail>
+			<fanart>http://goldwallpapers.com/uploads/posts/dragon-ball-z-gt-wallpapers/dragon_ball_z_gt_wallpapers_001.jpg</fanart>
+			</item>
+      
+      
+      <item>
+<title>[COLOR royalblue][COLOR white]• [/COLOR] [B]Dragon Ball Super[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR royalblue][COLOR white]Zihua[/COLOR][B]Flix[/B][/COLOR] [COLOR red][makelist.param3][/COLOR][COLOR red]  [makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+    <thumbnail>http://orig12.deviantart.net/e78d/f/2015/198/8/e/dragon_ball_super_folder_icon_by_uchihadjpasindu-d91nnyp.png</thumbnail>
+        <fanart>http://cdn.wallpapersafari.com/72/90/huNcCL.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/cbytek/d85-89022/list,1,5</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/cbytek/d85-89022/list,1,5<referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://orig12.deviantart.net/e78d/f/2015/198/8/e/dragon_ball_super_folder_icon_by_uchihadjpasindu-d91nnyp.png</thumbnail>
+<fanart>http://cdn.wallpapersafari.com/72/90/huNcCL.jpg</fanart>
+</item>
+
+
+
+      <item>
+<title>[COLOR royalblue][COLOR white]• [/COLOR] [B]Peliculas y OVAS Dragon Ball[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR royalblue][COLOR white]Zihua[/COLOR][B]Flix[/B][/COLOR] [COLOR red][makelist.param3][/COLOR][COLOR red]  [makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+    <thumbnail>https://orig00.deviantart.net/277c/f/2016/014/7/0/dragon_ball_z___icon_folder__02_by_fayersparks-d9nxoke.png</thumbnail>
+        <fanart>http://a-tamashi.net/wp-content/uploads/2016/09/Dragon-Ball-Z-Extreme-Budoten.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/Animegoku18/peliculas-ovas-de-dragon-ball-z-14042</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/Animegoku18/peliculas-ovas-de-dragon-ball-z-14042<referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://orig00.deviantart.net/277c/f/2016/014/7/0/dragon_ball_z___icon_folder__02_by_fayersparks-d9nxoke.png</thumbnail>
+<fanart>http://a-tamashi.net/wp-content/uploads/2016/09/Dragon-Ball-Z-Extreme-Budoten.jpg</fanart>
+</item>
+			
+			
+			
