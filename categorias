@@ -1483,7 +1483,7 @@
         <fanart>http://images6.fanpop.com/image/photos/37900000/Nati-con-la-camicia-terence-hill-37940543-1280-720.jpg</fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/naredo/bud-spencer-y-terence-hill-19970/list,1,1</page>
+<page>http://diskokosmiko.mx/naredo/bud-spencer-y-terence-hill-19970/list,1,2</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -1501,7 +1501,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/naredo/bud-spencer-y-terence-hill-19970/list,1,1<referer>
+<referer>http://diskokosmiko.mx/naredo/bud-spencer-y-terence-hill-19970/list,1,2<referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
