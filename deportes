@@ -1,13 +1,11 @@
 #EXTM3U
 
-#EXTINF:0,-Eventos deportivos-
-#EXTINF:-1 tvg-logo="" group-title="libertadores",colocolo vs atl nacional
-http://tier2.therugbybase.us/o10/21303.m3u8
+
 
 #EXTINF:0,-DEPORTES DE CHILE Y EL MUNDO-
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/742eH1R.png" group-title="CDF",Cdf HD
-http://s1.iptv61w.com:25461/live/alan1/1234/3934.m3u8
+http://tier2.therugbybase.us/o10/21303.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/742eH1R.png" group-title="CDF",Cdf HD 720
 https://live11.userapi.com/637605/live/24rL6j1CfSE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/742eH1R.png" group-title="CDF",Cdf 480
