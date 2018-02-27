@@ -5,7 +5,7 @@
 #EXTINF:0,-DEPORTES DE CHILE Y EL MUNDO-
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/742eH1R.png" group-title="CDF",Cdf HD
-http://tier2.therugbybase.us/o10/21303.m3u8
+http://tier2.therugbybase.us/o10/21303.m3u8?sf=NTllNzdkZDI0YmU3OA==&token=pDM7aB2CM4ZkdgWQGAzXyw&expires=1519775036
 #EXTINF:-1 tvg-logo="https://i.imgur.com/742eH1R.png" group-title="CDF",Cdf HD 720
 https://live11.userapi.com/637605/live/24rL6j1CfSE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/742eH1R.png" group-title="CDF",Cdf 480
