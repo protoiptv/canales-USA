@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:0,-DEPORTES DE CHILE Y EL MUNDO-
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/742eH1R.png" group-title="CDF",CDO OPCION 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/742eH1R.png" group-title="CDF",Cdf HD
 http://s1.iptv61w.com:25461/live/alan1/1234/3934.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/742eH1R.png" group-title="CDF",CDO OPCION 2
-https://live11.userapi.com/639904/live/VrX0Z9VCfck/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/742eH1R.png" group-title="CDF",CDO OPCION 3
-https://live11.userapi.com/637603/live/vMGAjeBCffw/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/742eH1R.png" group-title="CDF",CDO OPCION 4
-https://live11.userapi.com/620007/live/TpjZfw1CfRE/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/742eH1R.png" group-title="CDF",CDO OPCION 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/742eH1R.png" group-title="CDF",Cdf HD 720
+https://live11.userapi.com/637605/live/24rL6j1CfSE/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/742eH1R.png" group-title="CDF",Cdf 480
+https://live11.userapi.com/639911/live/7Bpb3UVCfVk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/742eH1R.png" group-title="CDF",Cdf 360
+https://live11.userapi.com/637605/live/24rL6j1CfSE/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/742eH1R.png" group-title="CDF",Cdf 4
 https://cdn.younow.com/php/api/broadcast/videoPath/hls=1/broadcastId=176648877_live.m3u8
 
 
