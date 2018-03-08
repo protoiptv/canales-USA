@@ -5,7 +5,7 @@
       <title>[COLOR white]Proto.IPTV[/COLOR]</title>
       <genre>IPTV</genre>
       <description>Add on para Proto Box</description>
-       <thumbnail>http://www.protobox.cl/image/material%20facebook/protoiptv.png</thumbnail>
+       <thumbnail>http://www.protobox.cl/image/logos/iocono.png</thumbnail>
 <fanart>http://www.protobox.cl/image/fondos/7.jpg</fanart>
       <date>19.02.2018</date>
       <credits>Gracias a ProtoBox</credits>
@@ -15,7 +15,7 @@
  
 <channel>
       <name>[COLOR rose][/COLOR][COLOR purple]Proto.IPTV[/COLOR]</name>
-  <thumbnail>http://www.protobox.cl/image/material%20facebook/protoiptv.png</thumbnail>
+  <thumbnail>http://www.protobox.cl/image/logos/iocono.png</thumbnail>
 <fanart>http://www.protobox.cl/image/fondos/7.jpg</fanart>
 <link>http://ignoreme</link>
    <externallink>https://pastebin.com/raw/NKTWpj7E</externallink>
