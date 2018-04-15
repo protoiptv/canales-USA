@@ -1,43 +1,26 @@
-#EXTM3U
-
-#EXTINF:0,-CABALLEROS DEL ZODIACO-
-
-#EXTINF:-1, tvg-logo="http://orig14.deviantart.net/c6b7/f/2015/133/1/5/poster_soul_of_gold_by_dante3poeta-d8t7s99.jpg" group-title="CABALLEROS DEL ZODIACO",01 Sub Espa??
-
-https://goo.gl/jqHC4X
-#EXTINF:-1, tvg-logo="http://orig14.deviantart.net/c6b7/f/2015/133/1/5/poster_soul_of_gold_by_dante3poeta-d8t7s99.jpg" group-title="CABALLEROS DEL ZODIACO",02 Sub Espa??
-
-https://goo.gl/PJzWRB
-#EXTINF:-1, tvg-logo="http://orig14.deviantart.net/c6b7/f/2015/133/1/5/poster_soul_of_gold_by_dante3poeta-d8t7s99.jpg" group-title="CABALLEROS DEL ZODIACO",03 Sub Espa??
-
-https://goo.gl/17BsIZ
-#EXTINF:-1, tvg-logo="http://orig14.deviantart.net/c6b7/f/2015/133/1/5/poster_soul_of_gold_by_dante3poeta-d8t7s99.jpg" group-title="CABALLEROS DEL ZODIACO",04 Sub Espa??
-
-https://goo.gl/SZH7yA
-#EXTINF:-1, tvg-logo="http://orig14.deviantart.net/c6b7/f/2015/133/1/5/poster_soul_of_gold_by_dante3poeta-d8t7s99.jpg" group-title="CABALLEROS DEL ZODIACO",05 Sub Espa??
-
-https://goo.gl/mE153s
-#EXTINF:-1, tvg-logo="http://orig14.deviantart.net/c6b7/f/2015/133/1/5/poster_soul_of_gold_by_dante3poeta-d8t7s99.jpg" group-title="CABALLEROS DEL ZODIACO",06 Sub Espa??
-
-https://goo.gl/lz2j7W
-#EXTINF:-1, tvg-logo="http://orig14.deviantart.net/c6b7/f/2015/133/1/5/poster_soul_of_gold_by_dante3poeta-d8t7s99.jpg" group-title="CABALLEROS DEL ZODIACO",07 Sub Espa??
-
-https://goo.gl/Lci7bK
-#EXTINF:-1, tvg-logo="http://orig14.deviantart.net/c6b7/f/2015/133/1/5/poster_soul_of_gold_by_dante3poeta-d8t7s99.jpg" group-title="CABALLEROS DEL ZODIACO",08 Sub Espa??
-
-https://goo.gl/hzSzZq
-#EXTINF:-1, tvg-logo="http://orig14.deviantart.net/c6b7/f/2015/133/1/5/poster_soul_of_gold_by_dante3poeta-d8t7s99.jpg" group-title="CABALLEROS DEL ZODIACO",09 Sub Espa??
-
-https://goo.gl/PaFnE9
-#EXTINF:-1, tvg-logo="http://orig14.deviantart.net/c6b7/f/2015/133/1/5/poster_soul_of_gold_by_dante3poeta-d8t7s99.jpg" group-title="CABALLEROS DEL ZODIACO",10 Sub Espa??
-
-https://goo.gl/6cf3rB
-#EXTINF:-1, tvg-logo="http://orig14.deviantart.net/c6b7/f/2015/133/1/5/poster_soul_of_gold_by_dante3poeta-d8t7s99.jpg" group-title="CABALLEROS DEL ZODIACO",11 Sub Espa??
-
-https://goo.gl/flCxVG
-#EXTINF:-1, tvg-logo="http://orig14.deviantart.net/c6b7/f/2015/133/1/5/poster_soul_of_gold_by_dante3poeta-d8t7s99.jpg" group-title="CABALLEROS DEL ZODIACO",12 Sub Espa??
-
-https://goo.gl/u7FV7h
-#EXTINF:-1, tvg-logo="http://orig14.deviantart.net/c6b7/f/2015/133/1/5/poster_soul_of_gold_by_dante3poeta-d8t7s99.jpg" group-title="CABALLEROS DEL ZODIACO",13 Sub Espa??
-
-https://goo.gl/pPOUbJ
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+ 
+<channel>
+    <name>          <<<<<<<<<Saint Seiya>>>>>>>></name>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+        <items>
+               
+                        <item><title>[COLOR=yellow]                                      <<[/COLOR][COLOR=yellow] Saint Seiya sagas[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link></item>
+ 
+ 
+ 
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Saint Seiya los caballeros del zodiaco cap 1</title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <urlsolve>https://drive.google.com/file/d/0B1-vVRVaRv39RUt3S2d6M2hncHc/view?usp=sharing</urlsolve>
+                        </item>
+ 
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Saint Seiya los caballeros del zodiaco cap 2</title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <urlsolve>https://drive.google.com/open?id=1z5k3njcLuxbFbBWSLtiQuIxjOMtMCg2A</urlsolve>
+                        </item>
