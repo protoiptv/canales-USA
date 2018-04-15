@@ -2,7 +2,7 @@
 
 #EXTINF:0,-saint seiya saga-
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pQF8BDV.jpg" group-title="sagas ñoñas", Proto IPTV
+#EXTINF:-1, tvg-logo="https://i.imgur.com/pQF8BDV.jpg" group-title="sagas ñoñas", Proto IPTV
 
 #EXTINF:-1,Saint Seiya Soul of God 01
 https://pgli3u.oloadcdn.net/dl/l/If8EQGXaDOgEs4Ch/LhfSaN13JLE/Soul1+?mime=true
@@ -31,6 +31,7 @@ https://1fgm8ki.oloadcdn.net/dl/l/uXYyi4xOlYNwP5ix/I3L7-j3KmME/--SaiG12.mp4.mp4?
 #EXTINF:-1,Saint Seiya Soul of God 13
 https://1fiag15.oloadcdn.net/dl/l/AMEEQx5HFgOQtT3I/_1JFSyv3toQ/%5BSSGS-13ENDSD%5D.mp4.webm.mp4?mime=true
 
+#EXTINF:0,-saint seiya saga-
 
 #EXTINF:-1  Saint Seiya Soul of Gold 1
 http://www.animeyt.tv/ver/saint-seiya-soul-of-gold-1-sub-espanol.m3u8
