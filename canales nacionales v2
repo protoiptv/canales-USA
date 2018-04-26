@@ -154,9 +154,35 @@
                         <item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] NOVA TV</title>
                         <fanart></fanart>
-                        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_logo_2010.png </thumbnail>
+                        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_logo_2010.png</thumbnail>
                         <link>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_1_av-b.m3u8?iptvgratis?chile.m3u8</link>
                         </item>
+                        
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] CDF TV CHILE</title>
+                        <fanart></fanart>
+                        <thumbnail>https://i.imgur.com/742eH1R.png</thumbnail>
+                        <link>https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8</link>
+                        </item>
+                        
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] CDF TV</title>
+                        <fanart></fanart>
+                        <thumbnail>https://i.imgur.com/742eH1R.png</thumbnail>
+                        <link>http://149.56.23.205:8000/live/ArnoldoTrujillo/ArnoldoTrujillo/4498.ts</link>
+                        </item>
+                        
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] CDF MOVIL</title>
+                        <fanart></fanart>
+                        <thumbnail>https://i.imgur.com/742eH1R.png</thumbnail>
+                        <link>http://149.56.23.205:8000/live/ArnoldoTrujillo/ArnoldoTrujillo/6276.ts</link>
+                        </item>
+                        
+                        
+ 
+
+
                         
  
                        
