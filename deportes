@@ -6,19 +6,17 @@
  
 #EXTINF:0,-CDF-
  
-#EXTINF:0,-CDF-
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EEYbhJY.png?1" group-title="CDF", FMHOT SPORTS
 http://edge1.cl.grupoz.cl/contivision/live/chunklist_w615275980.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EEYbhJY.png?1" group-title="CDF", colocolo
-https://live5.userapi.com/620009/live/rLT1nVFFek0/playlist.m3u8
- 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EEYbhJY.png?1" group-title="CDF", FMHOT SPORTS 2
+http://edge1.cl.grupoz.cl/contivision/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/742eH1R.png" group-title="CDF",Cdf TV CHILE
-https://live5.userapi.com/620009/live/rLT1nVFFek0/playlist.m3u8
-
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/742eH1R.png" group-title="CDF",Cdf TV 
 http://149.56.23.205:8000/live/ArnoldoTrujillo/ArnoldoTrujillo/4498.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/742eH1R.png" group-title="PLAN CDF",CDF MOVIL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/742eH1R.png" group-title="CDF",CDF MOVIL
 http://149.56.23.205:8000/live/ArnoldoTrujillo/ArnoldoTrujillo/6276.ts
 
 
