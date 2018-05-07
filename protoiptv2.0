@@ -7,7 +7,7 @@
       <description>Add on para Proto Box</description>
 <thumbnail>http://www.protobox.cl/protoiptv/image/logos/icon.png</thumbnail>
 <fanart>http://www.protobox.cl/image/fondos/7.jpg</fanart>
-      <date>05.03.2018</date>
+      <date>07.05.2018</date>
       <credits>Gracias a ProtoBox</credits>
     </channels_info>
 <channels>
@@ -29,7 +29,7 @@
 <channels>
  
 <channel>
-      <name>[COLOR cyan][/COLOR][COLOR light blue]                                            Actualizacion:[/COLOR][COLOR purple] 14[/COLOR]-Abril-2018[COLOR cyan][COLOR  lime][/COLOR]  [/COLOR]</name>
+      <name>[COLOR cyan][/COLOR][COLOR light blue]                                            Actualizacion:[/COLOR][COLOR purple] 07[/COLOR]-Mayo-2018[COLOR cyan][COLOR  lime][/COLOR]  [/COLOR]</name>
   <thumbnail>http://www.protobox.cl/protoiptv/image/logos/icon.png</thumbnail>
 <fanart>http://www.protobox.cl/image/fondos/7.jpg</fanart>
 <link>http://ignoreme</link>
@@ -39,19 +39,11 @@
  
  
  
-<channels>
-<channel>
-      <name>[COLOR rose][COLOR  purple]•  [/COLOR] Peliculas[/COLOR]</name>
-  <thumbnail>http://www.protobox.cl/protoiptv/image/item2/cine.png</thumbnail>
-<fanart>http://www.protobox.cl/protoiptv/img/intro-bg.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/6a39Dufx</externallink>
-</channel>
-  </channels>
+
  
 <channels>
 <channel>
-      <name>[COLOR rose][COLOR  purple]•  [/COLOR] Peliculas 2[/COLOR]</name>
+      <name>[COLOR rose][COLOR  purple]•  [/COLOR] Peliculas [/COLOR]</name>
   <thumbnail>http://www.protobox.cl/protoiptv/image/item2/cine.png</thumbnail>
 <fanart>http://www.protobox.cl/protoiptv/img/intro-bg.jpg</fanart>
 <link>http://ignoreme</link>
@@ -64,36 +56,7 @@
  
 <channels>
  
-<channel>
-      <name>[COLOR rose][COLOR  purple]•  [/COLOR] Series [/COLOR]</name>
-  <thumbnail>http://www.protobox.cl/protoiptv/image/item2/series.png</thumbnail>
-<fanart>http://www.protobox.cl/protoiptv/img/intro-bg.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/Ab7ShR1p</externallink>
-</channel>
-  </channels>
- 
-<channels>
- 
-<channel>
-      <name>[COLOR rose][COLOR  purple]•  [/COLOR] Documentales[/COLOR]</name>
-  <thumbnail>http://www.protobox.cl/protoiptv/image/item2/documentales.png</thumbnail>
-<fanart>http://www.protobox.cl/protoiptv/img/intro-bg.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/protoiptv/canales-USA/master/Documentales</externallink>
-</channel>
-  </channels>
- 
-<channels>
-<channel>
-      <name>[COLOR rose][COLOR  purple]•  [/COLOR] Tele Series[/COLOR]</name>
-  <thumbnail>http://www.protobox.cl/protoiptv/image/item2/teleseries.png</thumbnail>
-<fanart>http://www.protobox.cl/protoiptv/img/intro-bg.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/protoiptv/canales-USA/master/Tele%20Series</externallink>
-</channel>
-  </channels>
- 
+
   <channels>
 <channel>
       <name>[COLOR rose][COLOR  purple]•  [/COLOR] Recientemente agregados[/COLOR]</name>
@@ -106,21 +69,10 @@
  
  
  
+
 <channels>
 <channel>
       <name>[COLOR rose][COLOR  purple]•  [/COLOR] Televisión Chilena [/COLOR]</name>
-  <thumbnail>http://www.protobox.cl/protoiptv/image/item2/chile.png</thumbnail>
-<fanart>http://www.protobox.cl/protoiptv/img/intro-bg.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/wS34ZHj6</externallink>
-</channel>
-  </channels>
- 
- 
- 
-<channels>
-<channel>
-      <name>[COLOR rose][COLOR  purple]•  [/COLOR] Televisión Chilena opcion 2[/COLOR]</name>
   <thumbnail>http://www.protobox.cl/protoiptv/image/item2/chile.png</thumbnail>
 <fanart>http://www.protobox.cl/protoiptv/img/intro-bg.jpg</fanart>
 <link>http://ignoreme</link>
@@ -131,26 +83,7 @@
  
 <channels>
  
-<channel>
-      <name>[COLOR rose][COLOR  purple]•  [/COLOR]Canales de cable Opcion 1[/COLOR]</name>
-  <thumbnail>http://www.protobox.cl/protoiptv/image/item2/mundo.png</thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/protoiptv/canales-USA/master/canales2</externallink>
-</channel>
-  </channels>
- 
-<channels>
- 
-<channel>
-      <name>[COLOR rose][COLOR  purple]•  [/COLOR] Canales de cable Opcion 2[/COLOR]</name>
-  <thumbnail>http://www.protoweb.cl/ProtoIPTV/img/</thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-   <externallink>http://www.primeiptv.cl/MegaTest.m3u</externallink>
-</channel>
-  </channels>
- 
+
  
 <channels>
 <channel>
@@ -174,15 +107,7 @@
 </channel>
   </channels>
  
-<channels>
-<channel>
-      <name>[COLOR rose][COLOR  purple]•  [/COLOR] series Infantiles[/COLOR]</name>
-  <thumbnail>http://www.protobox.cl/protoiptv/image/item2/ninos.png</thumbnail>
-<fanart>http://www.protobox.cl/protoiptv/img/intro-bg.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/donkybong/canales2/master/series%20infaniles</externallink>
-</channel>
-  </channels>
+
  
 <channels>
 <channel>
@@ -238,12 +163,4 @@
 </channel>
   </channels>
  
-<channels>
-<channel>
-      <name>[COLOR rose][COLOR  purple]•  [/COLOR]lista de canales externa[/COLOR]</name>
-  <thumbnail>http://www.protoweb.cl/ProtoIPTV/img/miscelaneo.png</thumbnail>
-<fanart>http://www.protobox.cl/protoiptv/img/intro-bg.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink></externallink>
-</channel>
-  </channels>
+
