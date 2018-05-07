@@ -56,17 +56,13 @@
       <name>[COLOR rose][COLOR  purple]•  [/COLOR] Peliculas 2[/COLOR]</name>
   <thumbnail>http://www.protobox.cl/protoiptv/image/item2/cine.png</thumbnail>
 <fanart>http://www.protobox.cl/protoiptv/img/intro-bg.jpg</fanart>
-<link>http://tvpremiumhd.club/peliculas.m3u</link>
+<link>http://ignoreme</link>
+<externallink>http://tvpremiumhd.club/peliculas.m3u</externallink>
    
 </channel>
   </channels>
  
- <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] peliculas 3 </title>
-                        <fanart></fanart>
-                        <thumbnail></thumbnail>
-                        <link>http://tvpremiumhd.club/peliculas.m3u</link>
-                        </item>
+ 
  
  
 <channels>
