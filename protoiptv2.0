@@ -61,7 +61,12 @@
 </channel>
   </channels>
  
- 
+ <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] peliculas 3 </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://tvpremiumhd.club/peliculas.m3u</link>
+                        </item>
  
  
 <channels>
