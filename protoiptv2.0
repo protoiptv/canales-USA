@@ -95,6 +95,15 @@
 <channels>
  
 
+<channels>
+<channel>
+      <name>[COLOR rose][COLOR  purple]•  [/COLOR] proto list[/COLOR]</name>
+  <thumbnail>http://www.protobox.cl/protoiptv/image/item2/mundo.png</thumbnail>
+<fanart>http://www.protobox.cl/protoiptv/img/intro-bg.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://tvpremiumhd.club/lista.m3u</externallink>
+</channel>
+  </channels>
  
 <channels>
 <channel>
@@ -149,6 +158,17 @@
 <fanart>http://www.protobox.cl/protoiptv/img/intro-bg.jpg</fanart>
 <link>http://ignoreme</link>
    <externallink>https://pastebin.com/raw/W0Lhy04c</externallink>
+</channel>
+  </channels>
+  
+  
+  <channels>
+<channel>
+      <name>[COLOR rose][COLOR  purple]•  [/COLOR] Karaokes[/COLOR]</name>
+  <thumbnail>http://www.protobox.cl/protoiptv/image/item2/musica.png</thumbnail>
+<fanart>http://www.protobox.cl/protoiptv/img/intro-bg.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://www.primeiptv.cl/karaokesPriMeiptv.m3u</externallink>
 </channel>
   </channels>
  
