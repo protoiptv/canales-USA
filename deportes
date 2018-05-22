@@ -2,12 +2,15 @@
 
 
 
-#EXTINF:0,-DEPORTES DE CHILE Y EL MUNDO- gracias a IPTV PRIME JAB por proveer la lista
+#EXTINF:0,-DEPORTES DE CHILE Y EL MUNDO- 
  
 #EXTINF:0,-CDF-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EEYbhJY.png?1" group-title="CDF", U de Chile vs Vasco Da Gama
 http://s6.latinowebtv.ga:2082/livelwtv/101.m3u8?token=ZJ2DifA80Cem7KKYMHfcbA&expires=1527054643
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EEYbhJY.png?1" group-title="CDF", U de Chile vs Vasco Da Gama
+http://s6.latinowebtv.ga:2082/livelwtv/101.m3u8
  
 
 
