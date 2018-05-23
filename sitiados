@@ -1,3 +1,89 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="",Sitiados Capitulo 1
-https://cl-a4-i-e-qa1.cdn.mdstrm.com/video/h/51c2f628b440bd797900051f/58056263b9d850213d0a205e.mp4/index-v1-a1.m3u8?access_token=GX5aVNbCpM9fYedwYNUN9R1xHcqiq9Xej52ODconBjT8QYe0P1SAho1InUmZmJBEypA1pbVE5E3&es=cl-a4-i-e-qa1.cdn.mdstrm.com&proto=https&ote=1527116160510&ot=B4A8cUKAyuZr-b8gzysCDQ
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+ 
+<channel>
+    <name>          <<<<<<<<<sitiados>>>>>>>></name>
+    <fanart>https://image.tmdb.org/t/p/original/4tGPQPG6H2mC4QLODbWBpWXwgTx.jpg</fanart>
+    <thumbnail>http://elpajaroburlon.com/wp-content/uploads/2018/04/lost-in-space-de-Netflix_opt.jpg</thumbnail>
+        <items>
+               
+                        <item><title>[COLOR=yellow]                                      <<[/COLOR][COLOR=yellow] sitiados[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link></item>
+ 
+ 
+ 
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] sitiados cap1 temp 1 </title>
+                        <fanart>https://k30.kn3.net/taringa/C/2/9/6/F/5/Chilearmas/365.jpg</fanart>
+                        <thumbnail>https://2.bp.blogspot.com/-n8Nlox03000/VQewjAh6TVI/AAAAAAAAGJ4/jATD4WOhLEE/s1600/poster%2Bserie%2Bsitiados%2Bmarimar%2Bvega%2Bfox.jpg</thumbnail>
+                        <urlsolve>https://drive.google.com/open?id=10et2Tfzo2zSELtCjyok0GX52anEnncRf</urlsolve>
+                        </item>
+                        
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] sitiados temp 1 cap2 </title>
+                        <fanart>https://k30.kn3.net/taringa/C/2/9/6/F/5/Chilearmas/365.jpg</fanart>
+                        <thumbnail>https://2.bp.blogspot.com/-n8Nlox03000/VQewjAh6TVI/AAAAAAAAGJ4/jATD4WOhLEE/s1600/poster%2Bserie%2Bsitiados%2Bmarimar%2Bvega%2Bfox.jpg</thumbnail>
+                        <urlsolve>https://drive.google.com/open?id=1yT0I1C4wzsM0sJ0jdxjMYTcNW7__T58f</urlsolve>
+                        </item>
+                        
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] sitiados temp 1 cap3 </title>
+                        <fanart>https://k30.kn3.net/taringa/C/2/9/6/F/5/Chilearmas/365.jpg</fanart>
+                        <thumbnail>https://2.bp.blogspot.com/-n8Nlox03000/VQewjAh6TVI/AAAAAAAAGJ4/jATD4WOhLEE/s1600/poster%2Bserie%2Bsitiados%2Bmarimar%2Bvega%2Bfox.jpg</thumbnail>
+                        <urlsolve>https://drive.google.com/open?id=1XPW8cDEp7dEQ5YxHXSPvwIlIHbhXGu-d</urlsolve>
+                        </item>
+                        
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] sitiados temp 1 cap4 </title>
+                        <fanart>https://k30.kn3.net/taringa/C/2/9/6/F/5/Chilearmas/365.jpg</fanart>
+                        <thumbnail>https://2.bp.blogspot.com/-n8Nlox03000/VQewjAh6TVI/AAAAAAAAGJ4/jATD4WOhLEE/s1600/poster%2Bserie%2Bsitiados%2Bmarimar%2Bvega%2Bfox.jpg</thumbnail>
+                        <urlsolve>https://drive.google.com/open?id=1JynrYWpnMVGtTpOtVJfaBLZRVYLZu9o_</urlsolve>
+                        </item>
+                        
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] sitiados temp 1 cap5 </title>
+                        <fanart>https://k30.kn3.net/taringa/C/2/9/6/F/5/Chilearmas/365.jpg</fanart>
+                        <thumbnail>https://2.bp.blogspot.com/-n8Nlox03000/VQewjAh6TVI/AAAAAAAAGJ4/jATD4WOhLEE/s1600/poster%2Bserie%2Bsitiados%2Bmarimar%2Bvega%2Bfox.jpg</thumbnail>
+                        <urlsolve>https://drive.google.com/open?id=1kI3TcGMb1G7y2AISTDZ2l_lLg4lixaYH</urlsolve>
+                        </item>
+                        
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] sitiados temp 1 cap6 </title>
+                        <fanart>https://k30.kn3.net/taringa/C/2/9/6/F/5/Chilearmas/365.jpg</fanart>
+                        <thumbnail>https://2.bp.blogspot.com/-n8Nlox03000/VQewjAh6TVI/AAAAAAAAGJ4/jATD4WOhLEE/s1600/poster%2Bserie%2Bsitiados%2Bmarimar%2Bvega%2Bfox.jpg</thumbnail>
+                        <urlsolve>https://drive.google.com/open?id=1CvY5V35o8mMwq4jYWbEI6a8AbMjdJa2q</urlsolve>
+                        </item>
+                        
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] sitiados temp 1 cap7 </title>
+                        <fanart>https://k30.kn3.net/taringa/C/2/9/6/F/5/Chilearmas/365.jpg</fanart>
+                        <thumbnail>https://2.bp.blogspot.com/-n8Nlox03000/VQewjAh6TVI/AAAAAAAAGJ4/jATD4WOhLEE/s1600/poster%2Bserie%2Bsitiados%2Bmarimar%2Bvega%2Bfox.jpg</thumbnail>
+                        <urlsolve>https://drive.google.com/open?id=1hZsM0yrApjbl5rPqvGScbw2ywdkQB0NV</urlsolve>
+                        </item>
+                        
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] sitiados temp 1 cap8 </title>
+                        <fanart>https://k30.kn3.net/taringa/C/2/9/6/F/5/Chilearmas/365.jpg</fanart>
+                        <thumbnail>https://2.bp.blogspot.com/-n8Nlox03000/VQewjAh6TVI/AAAAAAAAGJ4/jATD4WOhLEE/s1600/poster%2Bserie%2Bsitiados%2Bmarimar%2Bvega%2Bfox.jpg</thumbnail>
+                        <urlsolve>https://drive.google.com/open?id=1KtapkkIZV8O0IGAEAt-s3gEzKQeF9Bl4</urlsolve>
+                        </item>
+                        
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] sitiados temp 2 cap1 </title>
+                        <fanart>https://k30.kn3.net/taringa/C/2/9/6/F/5/Chilearmas/365.jpg</fanart>
+                        <thumbnail>https://2.bp.blogspot.com/-n8Nlox03000/VQewjAh6TVI/AAAAAAAAGJ4/jATD4WOhLEE/s1600/poster%2Bserie%2Bsitiados%2Bmarimar%2Bvega%2Bfox.jpg</thumbnail>
+                        <urlsolve>https://drive.google.com/open?id=1qK7QbPaDNcGRYi5Q2wDEodjdcwSzAIpf</urlsolve>
+                        </item>
+                        
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] sitiados temp 2 cap2 </title>
+                        <fanart>https://k30.kn3.net/taringa/C/2/9/6/F/5/Chilearmas/365.jpg</fanart>
+                        <thumbnail>https://2.bp.blogspot.com/-n8Nlox03000/VQewjAh6TVI/AAAAAAAAGJ4/jATD4WOhLEE/s1600/poster%2Bserie%2Bsitiados%2Bmarimar%2Bvega%2Bfox.jpg</thumbnail>
+                        <urlsolve>https://drive.google.com/open?id=17JrsviX-0UanbPpQilSzGjsFQh2KQugY</urlsolve>
+                        </item>
+                        
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] sitiados temp 2 cap3 </title>
+                        <fanart>https://k30.kn3.net/taringa/C/2/9/6/F/5/Chilearmas/365.jpg</fanart>
+                        <thumbnail>https://2.bp.blogspot.com/-n8Nlox03000/VQewjAh6TVI/AAAAAAAAGJ4/jATD4WOhLEE/s1600/poster%2Bserie%2Bsitiados%2Bmarimar%2Bvega%2Bfox.jpg</thumbnail>
+                        <urlsolve>https://drive.google.com/open?id=1FK6BdPsfOYf1y-RXuYrZbvaAGEM-Whoc</urlsolve>
+                        </item>
