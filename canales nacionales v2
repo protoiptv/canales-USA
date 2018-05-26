@@ -67,9 +67,17 @@
                         <item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] FM HOT </title>
                         <fanart></fanart>
-                        <thumbnail></thumbnail>
+                        <thumbnail>http://fmhot.cl/wp-content/uploads/2014/08/logo1.png</thumbnail>
                         <link>http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/master.m3u8</link>
                         </item>
+                        
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] CACHI PUM!! </title>
+                        <fanart></fanart>
+                        <thumbnail>http://envivo.grupoz.cl/cachipum/img/logo.png</thumbnail>
+                        <link>http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w304819873.m3u8</link>
+                        </item>
+                        
                         
                         <item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] UCV TV </title>
