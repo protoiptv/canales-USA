@@ -17,7 +17,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] Canal 13</title>
                         <fanart></fanart>
                         <thumbnail></thumbnail>
-                        <link>http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8</link>
+                        <link>http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?</link>
                         </item>
  
                         <item>
@@ -47,7 +47,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] La red </title>
                         <fanart></fanart>
                         <thumbnail></thumbnail>
-                        <link>http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|referer=http://d1e8b5coppv0r9.cloudfront.net/jwplayer-7.2.2/jwplayer.flash.swf</link>
+                        <link>https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone</link>
                         </item>
  
                         <item>
@@ -100,99 +100,12 @@
                         <link>http://13rec.live.ztreaming.com/13rec/13rec/sat.m3u8</link>
                         </item>
                         
-                        <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] mega opcionn 2 </title>
-                        <fanart></fanart>
-                        <thumbnail></thumbnail>
-                        <link>https://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8</link>
-                        </item>
+                       
                         
-                        <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] Trailer TV </title>
-                        <fanart></fanart>
-                        <thumbnail>http://images.eltelon.com/cache/media/4418/square_150x150-2.jpg</thumbnail>
-                        <link>http://evo.eltelon.com:1935/trailertv/smil:trailertv.smil/playlist.m3u8</link>
-                        </item>
-                        
-                        <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] Trailer TV </title>
-                        <fanart></fanart>
-                        <thumbnail>http://www.uestv.cl/sites/all/themes/uestv/images/logo.png</thumbnail>
-                        <link>http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8?iptvgratis?chile.m3u8</link>
-                        </item>
-                        
-                        <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] TV POP</title>
-                        <fanart></fanart>
-                        <thumbnail>http://i.imgur.com/8JlopAB.png</thumbnail>
-                        <link>http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8</link>
-                        </item>
+                       
                         
                         
-                        <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] Garage TV</title>
-                        <fanart></fanart>
-                        <thumbnail>https://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_37194.png</thumbnail>
-                        <link>http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8</link>
-                        </item>
                         
-                        <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] Arab TV</title>
-                        <fanart></fanart>
-                        <thumbnail>http://www.arabtv.cl/wp-content/uploads/2016/08/logo_header.png</thumbnail>
-                        <link>http://149.56.17.92:1935/8404/8404/master.m3u8</link>
-                        </item>
-                        
-                        <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] mega TV </title>
-                        <fanart></fanart>
-                        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/245px-MEGA.svg.png</thumbnail>
-                        <link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_1_av-b.m3u8?iptvgratis?chile.m3u8</link>
-                        </item>
-                        
-                        
-                        <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR]NEON TV  </title>
-                        <fanart></fanart>
-                        <thumbnail>http://srv00.epimg.net/m/programacion-tv/iconos/canales/neox.png</thumbnail>
-                        <link>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8?iptvgratis?chile.m3u8</link>
-                        </item>
-                        
-                        
-                        <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] NOVA TV</title>
-                        <fanart></fanart>
-                        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_logo_2010.png</thumbnail>
-                        <link>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_1_av-b.m3u8?iptvgratis?chile.m3u8</link>
-                        </item>
-                        
-                        <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] CDF TV CHILE</title>
-                        <fanart></fanart>
-                        <thumbnail>https://i.imgur.com/742eH1R.png</thumbnail>
-                        <link>https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8</link>
-                        </item>
-                        
-                        <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] CDF TV</title>
-                        <fanart></fanart>
-                        <thumbnail>https://i.imgur.com/742eH1R.png</thumbnail>
-                        <link>http://149.56.23.205:8000/live/ArnoldoTrujillo/ArnoldoTrujillo/4498.ts</link>
-                        </item>
-                        
-                        <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] CDF MOVIL </title>
-                        <fanart></fanart>
-                        <thumbnail>https://i.imgur.com/742eH1R.png</thumbnail>
-                        <link>http://149.56.23.205:8000/live/ArnoldoTrujillo/ArnoldoTrujillo/6276.ts</link>
-                        </item>
-                        
-                        <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] FM Hot Sports </title>
-                        <fanart></fanart>
-                        <thumbnail>https://i.imgur.com/742eH1R.png</thumbnail>
-                        <link></link>
-                        </item>
                         
                         
  
