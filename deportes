@@ -4,11 +4,10 @@
 
 #EXTINF:0,-DEPORTES DE CHILE Y EL MUNDO- 
  
-#EXTINF:0,-CHAMPIONS-
+#EXTINF:0,-Rusia 2018-
 
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1521497894.png" group-title="CHAMPIONS" , PPV CHAMPIONS
-http://stream.shockmedia.com.ar:1935/quillatv/quillatv/chunklist_w1419305422.m3u8
- 
+#EXTINF:-1 tvg-logo="https://img.depor.com/files/article_main/uploads/2018/06/21/5b2bf6ec5d2ac.jpeg" group-title="Rusia 2018" , Islandia Nigeria
+http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/chunks.m3u8
 
 
 #EXTINF:0,-DEPORTES-
