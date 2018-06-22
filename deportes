@@ -15,8 +15,8 @@ http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/
 http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1521497894.png" group-title="DEPORTES" , PPV CHAMPIONS
 http://stream.shockmedia.com.ar:1935/quillatv/quillatv/chunklist_w1419305422.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Univision_-_Televisa_Deportes_Network_logo_-_2012.png" group-title="DEPORTES",Univision TDN
-http://51.15.222.188/live/udn/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Rusia 2018 Islandia vs Nigeria
+http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.ambientalmx.com/images/24.png" group-title="DEPORTES",Eventos Deportivos
 https://clutch.vaughnsoft.net/ord/vl/psn86v.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1392318959/logo_cdo.png" group-title="DEPORTES",CDO
