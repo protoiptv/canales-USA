@@ -1,21 +1,23 @@
 #EXTM3U
 
-
-
 #EXTINF:0,-DEPORTES DE CHILE Y EL MUNDO- 
  
 #EXTINF:0,-Rusia2018-
 
-#EXTINF:-1 tvg-logo="https://img.depor.com/files/article_main/uploads/2018/06/21/5b2bf6ec5d2ac.jpeg" group-title="Rusia2018" , Islandia Nigeria
-http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://img.depor.com/files/article_main/uploads/2018/06/21/5b2bf6ec5d2ac.jpeg" group-title="Rusia2018" , Mexico VS  Nigeria 11:00
+http://ssh101.com/m3u8/dyn/deptdnmxvall/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.depor.com/files/article_main/uploads/2018/06/21/5b2bf6ec5d2ac.jpeg" group-title="Rusia2018" , Alemania VS  Suecia
+http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/chunks.m3u8
 
 #EXTINF:0,-DEPORTES-
-#EXTINF:-1 tvg-logo="https://img.depor.com/files/article_main/uploads/2018/06/21/5b2bf6ec5d2ac.jpeg" group-title="DEPORTES" , Islandia Nigeria
+#EXTINF:-1 tvg-logo="https://img.depor.com/files/article_main/uploads/2018/06/21/5b2bf6ec5d2ac.jpeg" group-title="DEPORTES" , Mexico VS  Nigeria
+http://ssh101.com/m3u8/dyn/deptdnmxvall/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.depor.com/files/article_main/uploads/2018/06/21/5b2bf6ec5d2ac.jpeg" group-title="DEPORTES" , Alemania VS  Suecia
+http://ssh101.com/m3u8/dyn/deptdnmxvall/index.m3u8
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1521497894.png" group-title="DEPORTES" , CDN Live
 http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1521497894.png" group-title="DEPORTES" , PPV CHAMPIONS
-http://stream.shockmedia.com.ar:1935/quillatv/quillatv/chunklist_w1419305422.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Rusia 2018 Islandia vs Nigeria
+#EXTINF:-1 tvg-logo="https://img.depor.com/files/article_main/uploads/2018/06/21/5b2bf6ec5d2ac.jpeg" group-title="DEPORTES",Rusia 2018 Islandia vs Nigeria
 http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.ambientalmx.com/images/24.png" group-title="DEPORTES",Eventos Deportivos
 https://clutch.vaughnsoft.net/ord/vl/psn86v.m3u8
@@ -37,16 +39,12 @@ http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/
 http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream2/chunks.m3u8?iptvgratis?chile.m3u8
 #EXTINF:0 tvg-logo="http://i.imgur.com/qAMAW1z.jpg" group-title="DEPORTES",Sporting Tv SD
 http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream3/chunks.m3u8?iptvgratis?chile.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/b27Bk9b.png" group-title="DEPORTES", Real Madrid TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/b27Bk9b.png" group-title="DEPORTES", Real Madrid TV 
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:0 tvg-logo="http://i.imgur.com/3GIGy3P.png" group-title="DEPORTES",Sevilla FC
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://olympicchannelservices.com/wp-content/themes/olympicchannelservices/dist/images/ocs-logo.png" group-title="DEPORTES",Olimpic Channel HD
 https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
 #EXTINF:-1 tvg-logo="https://olympicchannelservices.com/wp-content/themes/olympicchannelservices/dist/images/ocs-logo.png" group-title="DEPORTES",Olimpic Channel SD
@@ -65,24 +63,6 @@ http://cdn-usa1-streaming.ani-box.com:1935/live/cs08.stream/playlist.m3u8
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
 #EXTINF:-1 tvg-logo="https://www.skymedia.ie/wp-content/uploads/sites/4/2016/01/channel-logo-sky-news.png" group-title="DEPORTES",SKY News
 https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/21gsJZo.png" group-title="DEPORTES",ESPN 
-
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/espn_kr-q3.php/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/21gsJZo.png" group-title="DEPORTES",ESPN Opc2
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/espn_kr.php/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6FLVrA9.png" group-title="DEPORTES",ESPN 2 
-
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/espn2_kr-q3.php/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6FLVrA9.png" group-title="DEPORTES",ESPN 2 Opc2
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/espn2_kr.php/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MALrAFv.png" group-title="DEPORTES",ESPN 3 
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/espn3_kr-q3.php/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/MALrAFv.png" group-title="DEPORTES",ESPN 3
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/espn3_kr.php/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.xtremostereo.net/wp-content/uploads/2015/07/espn-logo.png" group-title="DEPORTES",ESPN MAS
@@ -103,7 +83,6 @@ http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports2.php/index.
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports2mx-q3.php/index.m3u8
 #EXTINF:-1,tvg-logo="http://images.mi.tv/channels/co_fox-sports-2-hd_m.png" group-title="DEPORTES",Fox Sports 2 opc3
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports2mx.php/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://visionperuanatv.com/wp-content/uploads/2017/01/fox-sports-3-online.png" group-title="DEPORTES",FOX SPORT 3 HD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports3-q3.php/index.m3u8
 #EXTINF:-1 tvg-logo="http://visionperuanatv.com/wp-content/uploads/2017/01/fox-sports-3-online.png" group-title="DEPORTES",FOX SPORT 3 HD Opc2
@@ -112,7 +91,6 @@ http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports3.php/index.
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports3mx-q3.php/index.m3u8
 #EXTINF:-1 tvg-logo="http://visionperuanatv.com/wp-content/uploads/2017/01/fox-sports-3-online.png" group-title="DEPORTES",FOX SPORT 3 HD Opc4
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports3mx.php/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES",Win Sports HD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/winsports-q3.php/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES",Win Sports HD Opc2
@@ -127,8 +105,6 @@ http://3-120heat.pulsedmedia.com/public-llave1/list/public/clspo.php/index.m3u8
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/clspoco.php/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.ambientalmx.com/images/24.png" group-title="DEPORTES",Eventos Deportivos
 https://clutch.vaughnsoft.net/ord/vl/psn86v.m3u8
-
-https://w4.cdn.anvato.net/live/ephemeral/8JN6lx09T0YgECY5CbJZ6zuYEzVblvPG/telecaribedeporteshd2/1864k/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1392318959/logo_cdo.png" group-title="DEPORTES",CDO
 http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8
 #EXTINF:0 tvg-logo="http://i.imgur.com/PxyIZNW.png" group-title="DEPORTES",Deport Tv
@@ -147,14 +123,10 @@ http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/
 http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream2/chunks.m3u8?iptvgratis?chile.m3u8
 #EXTINF:0 tvg-logo="http://i.imgur.com/qAMAW1z.jpg" group-title="DEPORTES",Sporting Tv SD
 http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream3/chunks.m3u8?iptvgratis?chile.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/b27Bk9b.png" group-title="DEPORTES", Real Madrid TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
 #EXTINF:0 tvg-logo="http://i.imgur.com/3GIGy3P.png" group-title="DEPORTES",Sevilla FC
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://olympicchannelservices.com/wp-content/themes/olympicchannelservices/dist/images/ocs-logo.png" group-title="DEPORTES",Olimpic Channel HD
 https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
 #EXTINF:-1 tvg-logo="https://olympicchannelservices.com/wp-content/themes/olympicchannelservices/dist/images/ocs-logo.png" group-title="DEPORTES",Olimpic Channel SD
