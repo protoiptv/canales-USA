@@ -8,13 +8,13 @@
 #EXTINF:-1 tvg-logo="https://img.depor.com/files/article_main/uploads/2018/06/21/5b2bf6ec5d2ac.jpeg" group-title="Rusia2018" , Mexico VS  Nigeria 11:00
 http://ssh101.com/m3u8/dyn/deptdnmxvall/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.depor.com/files/article_main/uploads/2018/06/21/5b2bf6ec5d2ac.jpeg" group-title="Rusia2018" , Alemania VS  Suecia
-http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/chunks.m3u8
+http://ssh101.com/m3u8/dyn/azteca7hdmxvall/index.m3u8
 
 #EXTINF:0,-DEPORTES-
-#EXTINF:-1 tvg-logo="https://img.depor.com/files/article_main/uploads/2018/06/21/5b2bf6ec5d2ac.jpeg" group-title="DEPORTES" , Mexico VS  Nigeria
+#EXTINF:-1 tvg-logo="https://img.depor.com/files/article_main/uploads/2018/06/21/5b2bf6ec5d2ac.jpeg" group-title="Rusia2018" , Mexico VS  Nigeria 11:00
 http://ssh101.com/m3u8/dyn/deptdnmxvall/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.depor.com/files/article_main/uploads/2018/06/21/5b2bf6ec5d2ac.jpeg" group-title="DEPORTES" , Alemania VS  Suecia
-http://ssh101.com/m3u8/dyn/deptdnmxvall/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.depor.com/files/article_main/uploads/2018/06/21/5b2bf6ec5d2ac.jpeg" group-title="Rusia2018" , Alemania VS  Suecia
+http://ssh101.com/m3u8/dyn/azteca7hdmxvall/index.m3u8
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1521497894.png" group-title="DEPORTES" , CDN Live
 http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://img.depor.com/files/article_main/uploads/2018/06/21/5b2bf6ec5d2ac.jpeg" group-title="DEPORTES",Rusia 2018 Islandia vs Nigeria
