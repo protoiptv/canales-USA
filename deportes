@@ -5,10 +5,155 @@
 #EXTINF:0,-Rusia2018-
 
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.sopitas.com/wp-content/uploads/2018/06/28junio3_destacada.png" group-title="Rusia2018" , Inglaterra vs belgica
-http://ssh101.com/m3u8/dyn/azteca7hdmxvall/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.depor.com/files/article_main/uploads/2018/06/21/5b2bf6ec5d2ac.jpeg" group-title="Rusia2018" , Alemania VS  Suecia
-http://ssh101.com/m3u8/dyn/azteca7hdmxvall/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/VLmyUYA.png" group-title="RUSIA directvHD",DirecTv Sports
+http://169.44.88.99/LIVE/H03/DIRECTVSPORTS/playlist.m3u8?authorization=katomnojutsu
+#EXTINF:-1  tvg-logo="https://i.imgur.com/VLmyUYA.png" group-title="RUSIA directvHD",DirecTv Sports
+http://rem.serviceonline.live/lstream2/5aa845b0f99ad056f74c3479/5900bc9a970b1071e240b0cd/_/DIRECTVSPORTS.m3u8@eyJjcyI6dHJ1ZSwiYSI6IjE2MjJmZjM4MDFmYjc0YzM3NTUyYWEyZjEyODZhMDQ4IiwiYiI6Ijg2ZmRhNDQ0MDczOWZhMzVjNDkxOTNjMTcwZGZkY2IzIiwiYyI6IjM3MWJlYzM4MTk5YTExMGYxYzRiMTQ1OWZhMzEzYTE1In0=/source.ts
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSIA directvHD",Señal Full HD 1
+http://dtuulakbbokmc.cloudfront.net/live.m3u8?
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSIA directvHD",Señal Full HD 2
+https://d1gtpcsnm74bwp.cloudfront.net/index_5.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSIA directvHD",Señal Full HD 3
+https://d1k18ib52chn2f.cloudfront.net/neo_1_1.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSIA directvHD",Señal Full HD 4
+https://dq6jz9psumn3g.cloudfront.net/index_5.m3u8
+#EXTINF:0,-RUSSIA 2018-
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",Telecinco Espana HD
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8?
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",Telecinco Espana SD
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",RCN Colombia HD
+https://rcnhd.cdn.net.co/live02/hd_720p.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",RCN Colombia HD
+http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8?
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",CableOnda Sports 
+http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8?
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",CableOnda Sports FC
+http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8?
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",Telemetro Panama
+http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/chunks.m3u8?
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",RPC TV Panama
+http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/chunks.m3u8?
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",Telemundo
+http://ktmdlive-lh.akamaihd.net/i/KTMD_LIVE1@183610/index_1200_av-p.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",TVN Chile HD 
+http://mdstrm.com/live-stream-playlist-v/57a498c4d7b86d600e5461cb.m3u8?
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",Mega Chile HD
+https://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8?
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",Canal 13 Chile 
+http://13.live.cdnz.cl/13hddesktop/13hd-desktop.m3u8?
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",Canal 13 Chile
+http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",Canal 13 Chile
+http://csm-e-ces1saexaws101j8-661hgz2zvhzy.yospace.13.cl/csm/live/108031140/2.m3u8Id=CH13M
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",PPV Telemundo 1
+http://173.208.145.2/test/tel1.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",PPV Telemundo 2
+http://173.208.145.2/test/tel2.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",PPV Telemundo 3
+http://173.208.145.2/test/tel3.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",PPV Telemundo 4
+http://173.208.145.2/test/tel4.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",PPV Telemundo 5
+http://173.208.145.2/test/tel5.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",PPV Telemundo 6
+http://173.208.145.2/test/tel6.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",PPV Telemundo 7
+http://173.208.145.2/test/tel7.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",960x540
+https://vimmi.hs.llnwd.net/Channel511LLRepeat/channel511/smil:channel511.smil/chunklist_b1564000.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",1920x1080
+https://vimmi.hs.llnwd.net/Channel511LLRepeat/channel511/smil:channel511.smil/chunklist_b5564000.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",3840x2160
+https://vimmi.hs.llnwd.net/Channel511LLRepeat/channel511/smil:channel511.smil/chunklist_b12064000.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",1280x720
+
+
+https://vimmi.hs.llnwd.net/Channel511LLRepeat/channel511/smil:channel511.smil/chunklist_b3664000.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",768x432
+https://vimmi.hs.llnwd.net/Channel511LLRepeat/channel511/smil:channel511.smil/chunklist_b764000.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",CANAL 5 - 480P 
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8?
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",CANAL 5 - 540P 
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8?
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",CANAL 5 - 720P 
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_3.m3u8?
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",CANAL 5 - 1080P 
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8?
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",Canal 13  
+http://13.live.cdnz.cl/13hddesktop/13hd-desktop.m3u8?
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",Canal 13 
+http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",Canal 13 
+http://csm-e-ces1saexaws101j8-661hgz2zvhzy.yospace.13.cl/csm/live/108031140/2.m3u8Id=CH13M
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",RCN HD
+http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8?
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",Telefuturo
+http://xtelefuturohdx.api.channel.livestream.com/3.0/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",Panamericana TV
+http://z3.reporteperuano.com:1935/liverp3/zrhn/master.m3u8?
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",Telefuturo
+http://201.217.3.212/telefuturoext/telefuturoext/playlist.m3u8?
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",CableOnda Sports 
+http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8?
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",CableOnda Sports FC
+http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8?
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",RPC TV 
+http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/chunks.m3u8?
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",Telemetro
+http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/chunks.m3u8?
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",BeMad
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8?
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",TDN HD
+http://189.216.247.113/Content/HLS/Live/Channel(TDN)/Stream(05)/index.m3u8?
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",TDN HD AU
+http://189.216.247.113/Content/HLS/Live/Channel(TDN)/index.m3u8?
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",Univision
+https://nlunioo.akamaized.net/nlds/univision/as/live/unioo_hd_4500_ipad.m3u8?
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",Univision
+https://nludnoo.akamaized.net/nlds/univision/as/live/udnoo_hd_1200.m3u8?
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",Teledoce
+http://mdstrm.com/live-stream-playlist/5aba9ca777ed89391543b607.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",TELEMUNDO
+http://ktmdlive-lh.akamaihd.net/i/KTMD_LIVE1@183610/index_1200_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/YwkxZBC.jpg" group-title="RUSSIA 2018",TDN HD
+http://189.216.247.113/Content/HLS/Live/Channel(TDN)/Stream(05)/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/YwkxZBC.jpg" group-title="RUSSIA 2018",TDN 2 HD
+http://189.216.247.113/Content/HLS/Live/Channel(TDN)/Stream(06)/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/YwkxZBC.jpg" group-title="RUSSIA 2018",TDN SD
+http://189.216.247.113/Content/HLS/Live/Channel(TDN)/Stream(03)/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/YwkxZBC.jpg" group-title="RUSSIA 2018",TELEMUNDO 
+http://ktmdlive-lh.akamaihd.net/i/KTMD_LIVE1@183610/index_1200_av-p.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/YwkxZBC.jpg" group-title="RUSSIA 2018",TELEMUNDO 2
+http://ktmdlive-lh.akamaihd.net/i/KTMD_LIVE1@183610/master.m3u8
 
 #EXTINF:0,-DEPORTES-
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.sopitas.com/wp-content/uploads/2018/06/28junio3_destacada.png" group-title="Rusia2018" , Inglaterra vs belgica
