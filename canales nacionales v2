@@ -14,18 +14,41 @@
  
  
                         <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] Canal 13</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Canal 13 op 1</title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8</link>
+                        </item>
+                        
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Canal 13 op 2</title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://13.live.cdnz.cl/13hddesktop/13hd-desktop.m3u8?</link>
+                        </item>
+                        
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Canal 13 op 3</title>
                         <fanart></fanart>
                         <thumbnail></thumbnail>
                         <link>http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?</link>
                         </item>
- 
+                        
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Canal 13 op 4</title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://csm-e-ces1saexaws101j8-661hgz2zvhzy.yospace.13.cl/csm/live/108031140/2.m3u8Id=CH13M</link>
+                        </item>
+                        
+                        
                         <item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] TVN</title>
                         <fanart></fanart>
                         <thumbnail></thumbnail>
                         <link>http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8</link>
                         </item>
+                        
  
  
                         <item>
@@ -36,11 +59,20 @@
                         </item>
  
                         <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] Mega </title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Mega op 2</title>
                         <fanart></fanart>
                         <thumbnail></thumbnail>
                         <link>http://mdstrm.com/live-stream-playlist-v/53d2c1a32640614e62a0e000.m3u8?ref=http%3A%2F%2Fwww.mega.cl%2Fsenal-en-vivo%2F</link>
                         </item>
+                        
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Mega op 2</title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://cl-a6-i-e-qp1.cdn.mdstrm.com/live-stream/53d2c1a32640614e62a0e000/publish/media_1500.m3u8?dnt=true&ref=http%3A%2F%2Fwww.mega.cl%2Fsenal-en-vivo%2F&es=cl-a6-i-e-qp1.cdn.mdstrm.com&ote=1530891075200&ot=qCdPwfmQHmCMhThn3HOZiQ&proto=http&pz=cl
+</link>
+                        </item>
+                        
  
  
                         <item>
