@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+<channels>
+<channels_info>
+<title>[COLOR white]Proto.IPTV[/COLOR]</title>
+<genre>IPTV</genre>
+<description>Add on para Proto Box</description>
+<thumbnail>http://www.protobox.cl/protoiptv/image/logos/icon.png</thumbnail>
+<fanart>http://www.protobox.cl/image/fondos/7.jpg</fanart>
+<date>07.05.2018</date>
+<credits>Gracias a ProtoBox</credits>
+</channels_info>
+
+<channels>
+<channel>
+<name>[COLOR rose][/COLOR][COLOR purple]Proto.IPTV[/COLOR]</name>
+<thumbnail>http://www.protobox.cl/protoiptv/image/logos/icon.png</thumbnail>
+<fanart>http://www.protobox.cl/image/fondos/7.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/NKTWpj7E</externallink>
+</channel>
+</channels>
+ 
+<channels>
+<channel>
+<name>[COLOR rose][COLOR  purple]•  [/COLOR] Peliculas [/COLOR]</name>
+<thumbnail>http://www.protobox.cl/protoiptv/image/item2/cine.png</thumbnail>
+<fanart>http://www.protobox.cl/protoiptv/img/intro-bg.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/6a39Dufx</externallink>
+</channel>
+</channels>
+
+<channels>
+<channels>
+<channel>
+<name>[COLOR rose][COLOR  purple]•  [/COLOR] Recientemente agregados[/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/7xipjQZQ</externallink>
+</channel>
+</channels>
+ 
+ 
+ 
+
+<channels>
+<channel>
+<name>[COLOR rose][COLOR  purple]•  [/COLOR] Televisión Chilena [/COLOR]</name>
+<thumbnail>http://www.protobox.cl/protoiptv/image/item2/chile.png</thumbnail>
+<fanart>http://www.protobox.cl/protoiptv/img/intro-bg.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/protoiptv/canales-USA/master/canales%20nacionales%20v2</externallink>
+</channel>
+</channels>
+ 
+ 
+<channels>
+ 
+
+ 
+<channels>
+<channel>
+<name>[COLOR rose][COLOR  purple]•  [/COLOR] Televisión Internacional[/COLOR]</name>
+<thumbnail>http://www.protobox.cl/protoiptv/image/item2/mundo.png</thumbnail>
+<fanart>http://www.protobox.cl/protoiptv/img/intro-bg.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/wfVerHt6</externallink>
+</channel>
+</channels>
+ 
+ 
+ 
+<channels>
+<channel>
+      <name>[COLOR rose][COLOR  purple]•  [/COLOR] Television Infantil[/COLOR]</name>
+  <thumbnail>http://www.protobox.cl/protoiptv/image/item2/ninos.png</thumbnail>
+<fanart>http://www.protobox.cl/protoiptv/img/intro-bg.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/3vPQa6fT</externallink>
+</channel>
+  </channels>
+ 
+
+ 
+<channels>
+<channel>
+      <name>[COLOR rose][COLOR  purple]•  [/COLOR] Canales deportivos[/COLOR]</name>
+  <thumbnail>http://www.protobox.cl/protoiptv/image/item2/deportes.png</thumbnail>
+<fanart>http://www.protobox.cl/protoiptv/img/intro-bg.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/protoiptv/canales-USA/master/deportes</externallink>
+</channel>
+  </channels>
+ 
+<channels>
+<channel>
+      <name>[COLOR rose][COLOR  purple]•  [/COLOR]Canales de Noticias[/COLOR]</name>
+  <thumbnail>http://www.protobox.cl/protoiptv/image/item2/noticias.png</thumbnail>
+<fanart>http://www.protobox.cl/protoiptv/img/intro-bg.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/fk08ivpW</externallink>
+</channel>
+  </channels>
+ 
+ 
+ 
+<channels>
+<channel>
+      <name>[COLOR rose][COLOR  purple]•  [/COLOR] Canales de Música[/COLOR]</name>
+  <thumbnail>http://www.protobox.cl/protoiptv/image/item2/musica.png</thumbnail>
+<fanart>http://www.protobox.cl/protoiptv/img/intro-bg.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/W0Lhy04c</externallink>
+</channel>
+  </channels>
+
+<channels>
+<channel>
+      <name>[COLOR rose][COLOR  purple]•  [/COLOR] Karaokes[/COLOR]</name>
+  <thumbnail>http://www.protobox.cl/protoiptv/image/item2/musica.png</thumbnail>
+<fanart>http://www.protobox.cl/protoiptv/img/intro-bg.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://www.primeiptv.cl/karaokesPriMeiptv.m3u</externallink>
+</channel>
+  </channels>
+ 
+ 
+<channels>
+<channel>
+      <name>[COLOR rose][COLOR  purple]•  [/COLOR]Conciertos [/COLOR]</name>
+  <thumbnail>http://www.protobox.cl/protoiptv/image/item2/conciertos.png</thumbnail>
+<fanart>http://www.protobox.cl/protoiptv/img/intro-bg.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/3uiwTKX7</externallink>
+</channel>
+  </channels>
+ 
+ 
+<channels>
+<channel>
+      <name>[COLOR rose][COLOR  purple]•  [/COLOR] Radios Chilenas[/COLOR]</name>
+  <thumbnail>http://www.protobox.cl/protoiptv/image/item2/radios.png</thumbnail>
+<fanart>http://www.protobox.cl/protoiptv/img/intro-bg.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/aEvVUbs2</externallink>
+</channel>
+  </channels>
