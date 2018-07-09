@@ -1,286 +1,318 @@
 #EXTM3U
 
-#EXTINF:0,-INFANTILES-
+#EXTINF:0,-LATINOS-
 
-#EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4477/square_150x150-2.jpg" group-title="INFANTILES",Trailer Tv Kids
-http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/chunklist_w194535224_b650000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Animax2.png" group-title="INFANTILES", Anime 24/7
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/b9jUASs.png" group-title="INFANTILES",TVN Kids
-http://cl-a1-p-e-tz2.cdn.mdstrm.com/live-stream/591f607e06b52d200a6066ea/playout/index-v1-a1.m3u8?
-#EXTINF:-1 tvg-logo="https://k60.kn3.net/8/9/8/3/B/8/DA9.png" group-title="INFANTILES",Tateti
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
-http://ar.watcha.live/ch16/hi.m3u8
+#EXTINF:-1 tvg-logo="https://www.latinosyork.co.uk/s/misc/logo.png?t=1524221445" group-title="LATINOS" ,-----LATINOS-----
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 group-title="LATINOS" tvg-logo="http://pmcdeadline2.files.wordpress.com/2013/02/new-univision-logo__130221235240.png",Univision
+https://nlunioo.akamaized.net/nlds/univision/as/live/unioo_hd_4500_ipad.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 group-title="LATINOS" tvg-logo="http://pmcdeadline2.files.wordpress.com/2013/02/new-univision-logo__130221235240.png",Univision
+https://nludnoo.akamaized.net/nlds/univision/as/live/udnoo_hd_1200.m3u8
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",Telemundo
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TELEMUNDO)/Stream(04)/index.m3u8
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",Telemundo 62
+http://wwsilive-lh.akamaihd.net/i/WWSI_LIVE1@183620/master.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",Telemundo
+http://wnjulive-lh.akamaihd.net/i/WNJU_LIVE1@183615/master.m3u8
+
+
+#EXTINF:0,-CLARO-
+
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Tooncast
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TOONCAST)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Disney Jr
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_JR)/Stream(04)/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Boomerang
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(BOOMERANG)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Disney XD
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_XD)/Stream(03)/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",TELEMUNDO
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TELEMUNDO)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",AXN SD
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AXN_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",AXN HD
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AXN_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",AXN FHD
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AXN_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",A&E [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AE_MUNDO_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",A&E [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AE_MUNDO_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",A&E [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AE_MUNDO_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Comedy Central [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(COMEDY_CENTRAL_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Comedy Central [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(COMEDY_CENTRAL_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Comedy Central [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(COMEDY_CENTRAL_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Film Zone [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(THE_FILM_ZONE_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Film Zone [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(THE_FILM_ZONE_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Film Zone [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(THE_FILM_ZONE_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",TCM
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TCM)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Sony [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SONY_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Sony [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SONY_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Sony [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SONY_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Space [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SPACE_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Space [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SPACE_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Space [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SPACE_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",TNT [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",TNT [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",TNT [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",TNT Series [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_SERIES_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",TNT Series [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_SERIES_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",TNT Series [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_SERIES_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Universal Channel [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(UNIVERSAL_CHANNEL_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Universal Channel [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(UNIVERSAL_CHANNEL_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Universal Channel [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(UNIVERSAL_CHANNEL_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Warner Channel [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(WARNER_HD)/Stream(04)/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Warner Channel [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(WARNER_HD)/Stream(05)/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Warner Channel [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(WARNER_HD)/Stream(06)/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",FX [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FX_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",FX [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FX_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",FX [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FX_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Fox [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Fox [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Fox [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",FOX Life
+http://live.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_LIFE_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Fox Cinema [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CINEMA_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Fox Cinema [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CINEMA_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Fox Cinema [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CINEMA_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Fox Movies [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXMOVIES_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Fox Movies [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXMOVIES_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Fox Movies [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXMOVIES_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Fox Family [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXFAMILY_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Fox Family [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXFAMILY_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Fox Family [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXFAMILY_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Fox Comedy [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_COMEDY_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Fox Comedy [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_COMEDY_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Fox Comedy [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_COMEDY_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",HBO [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",HBO [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",HBO [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",HBO Family [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_FAMILY_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",HBO Family [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_FAMILY_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",HBO Family [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_FAMILY_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",HBO Signature [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_SIGNATURE_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",HBO Signature [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_SIGNATURE_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",HBO Signature [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_SIGNATURE_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Golden HD
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(GOLDEN)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",CINE Latino
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINELATINO)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",CINEma Dinamita
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINEMA_DINAMITA)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",DE PELICULA
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DEPELICULA)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Cinecanal [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Cinecanal [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Cinecanal [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",HBO Plus [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_PLUS_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",HBO Plus [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_PLUS_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",HBO Plus [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_PLUS_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Paramount Channel [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(PARAMOUNT_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Paramount Channel [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(PARAMOUNT_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Paramount Channel [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(PARAMOUNT_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Max 
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MAX)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Max Prime [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MAX_PRIME_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Max Prime [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MAX_PRIME_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Max Prime [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MAX_PRIME_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Multipremier
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MULTIPREMIER)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Unicable
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(UNICABLE)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",TELEMUNDO
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TELEMUNDO)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",TL Novelas
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TLNOVELAS)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Animal Planet [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Animal Planet [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Animal Planet [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Investigation Discovery [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ID_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Investigation Discovery [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ID_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Investigation Discovery [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ID_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",History [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",History [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",History [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",H2
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(H2)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",NatGeo [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(NATGEO_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",NatGeo [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(NATGEO_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",NatGeo [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(NATGEO_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Lifetime
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(LIFETIME)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",E! Entertainment
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(E)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Discovery Civilization
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_CIVILIZATION)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Discovery H&H [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Discovery H&H [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Discovery H&H [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Discovery Science
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_SCIENCE)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Discovery Theater [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_THEATER_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Discovery Theater [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_THEATER_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Discovery Theater [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_THEATER_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Discovery Turbo
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_TURBO)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Discovery TLC [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TLC_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Discovery TLC [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TLC_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",Discovery TLC [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TLC_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",MTV [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MTV_HD)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",MTV [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MTV_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",MTV [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MTV_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",VH1
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(VH1)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.protobox.cl/protoiptv/image/Logo%20formatos/logo4.png" group-title="CLARO",VH1 Classics
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(VH1_CLASSIC)/Stream(04)/index.m3u8
+
 
 #EXTINF:0,-ENTRETENIMIENTO-
 
+#EXTINF:-1 tvg-logo="http://viajeypunto.com.mx/guiadigital/primavera2016/img/icon-entretenimiento.png" group-title="ENTRETENIMIENTO" ,-----ENTRETENIMIENTO-----
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
+#EXTINF:-1  tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="ENTRETENIMIENTO",Energy
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8?xtreamiptv.m3u8
+#EXTINF:-1  tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/be_mad_circular_500_-1_8f1a.png" group-title="ENTRETENIMIENTO",BeMad
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png" group-title="ENTRETENIMIENTO",FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png" group-title="ENTRETENIMIENTO",Divinity
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4418/square_150x150-2.jpg" group-title="ENTRETENIMIENTO",Trailer Tv
-http://evo.eltelon.com:1935/trailertv/smil:trailertv.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="http://i.imgur.com/xBgH1Tw.jpg" group-title="ENTRETENIMIENTO",Maxima Tv HD 
-http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://fmhot.cl/wp-content/uploads/2014/08/logo1.png" group-title="ENTRETENIMIENTO", Fm Hot HD
-http://evo.eltelon.com:1935/live/fm-hot-tv/playlist.m3u8?
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8JlopAB.png" group-title="ENTRETENIMIENTO",Tv Pop
-http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.nissanconnectmexico.com/images/img_servicio_geocercas.png" group-title="ENTRETENIMIENTO",Mundo Auto Tv
-https://593b04c4c5670.streamlock.net/8702/8702/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.arabtv.cl/wp-content/uploads/2016/08/logo_header.png" group-title="ENTRETENIMIENTO",Arab Tv
-http://149.56.17.92:1935/8404/8404/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.ipuntotv.com/IMAGES/Atres-series-logo-nuevo-2016.png" group-title="ENTRETENIMIENTO",Atreseries
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_1_av-b.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/245px-MEGA.svg.png" group-title="ENTRETENIMIENTO",MEGA
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_1_av-b.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-logo="http://srv00.epimg.net/m/programacion-tv/iconos/canales/neox.png" group-title="ENTRETENIMIENTO",NEOX
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_logo_2010.png" group-title="ENTRETENIMIENTO",NOVA
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_1_av-b.m3u8?iptvgratis?chile.m3u8
+http://evo.eltelon.com:1935/trailertv/smil:trailertv.smil/playlist.m3u8?xtreamiptv.m3u8
+
+#EXTINF:0,-AUTOS-
+
+#EXTINF:-1 tvg-logo="http://talleresgavira.es/wp-content/uploads/2016/08/icono_neumaticos.png" group-title="AUTOS" ,-----AUTOS-----
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lvP1JSd.png" group-title="AUTOS", Mundo Auto HD
+https://593b04c4c5670.streamlock.net/8702/8702/master.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_37194.png" group-title="AUTOS", Garage TV
+http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8?xtreamiptv.m3u8
+
+#EXTINF:0,-COCINA-
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/ce/fa/b2cefa9ee748bdc28f54d52d83bf4e4e.png" group-title="COCINA" ,-----COCINA-----
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/3781271/logo_canal%20sur%20cocina1.png" group-title="COCINA",Canal Sur Cocina
+http://cast.streamingconnect.com:1935/cscocina/cscocina/playlist.m3u8?xtreamiptv.m3u8
 
 #EXTINF:0,-MODA-
 
+#EXTINF:-1 tvg-logo="https://modaw4.files.wordpress.com/2011/10/people-moda.jpg?w=474" group-title="MODA" ,-----MODA-----
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hr/thumb/b/b0/Fashion_tv.png/120px-Fashion_tv.png" group-title="MODA", Fashion Tv
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://www.tafimedia.com/tafiimage/70.png" group-title="MODA",World Fashion
-http://cdn-01.bonus-tv.ru:9090/wfc/wfhd/type/none/eol/20200101T0000/hash/9a88dd19442705b52370171ff0c442e002c0e219/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://fashionrunwayblog.com/wp-content/uploads/2015/09/FashionRunwayLogo-No-Background.png" group-title="MODA",Runway Fashion
-http://runway.videocdn.scaleengine.net/runway-iphone/play/runway/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.idiginetwork.com/wp-content/uploads/2017/08/O-nas_ID_logo-300x300.png" group-title="MODA",ID Fashion
-http://95.67.8.22/hls/idfashion/index.m3u8
+http://cdn-01.bonus-tv.ru:9090/wfc/wfhd/type/none/eol/20200101T0000/hash/9a88dd19442705b52370171ff0c442e002c0e219/playlist.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/58336191579fb3cc08e273f2/t/583372336b8f5b1d0c7774e7/1509790814622/" group-title="MODA",ID Fashion
+http://95.67.8.22/hls/idfashion/index.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://www.bbtsip.tv/uploads/3/1/6/0/31603209/220902732_orig.png" group-title="MODA",HD Fashion
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://www.bellmedia.ca/wp-content/uploads/2014/02/tv_fashion-490x490.png" group-title="MODA",Public Tv Fashion
-http://cdn-11.bonus-tv.ru/publictv/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="http://blog.sophia-lenore.com/wp-content/uploads/2013/08/mzl.uigvmogw.png" group-title="MODA",Fashion Tv
-http://80.94.54.40/liveedge/tvfashion/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.demiurg.tv/upload/iblock/d5e/10653.jpg" group-title="MODA",Class Tv Moda
-http://liveclass.edgesuite.net/i/classtvmoda_1@199801/master.m3u8
+http://cdn-11.bonus-tv.ru/publictv/tracks-v1a1/index.m3u8?xtreamiptv.m3u8
 
 #EXTINF:0,-CULTURA-
 
-#EXTINF:-1 tvg-logo="https://cdn.firstone.tv/images/logos/mx/TRAVELCHANNEL.png" group-title="CULTURA",Mexico Travel
-http://live10.cdnmedia.tv/mtchlive/mtch.smil/.m3u8
+#EXTINF:-1 tvg-logo="http://www.promo-club.com/public/mer_logo/2016062117/cultura_1466502032.png" group-title="CULTURA" ,-----CULTURA-----
+http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="http://images.lacarmina.com/homepage/content/publishers_travel.png" group-title="CULTURA",Travel HD
-http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="CULTURA",NASA Public
-https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="CULTURA",NASA Media
-https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="CULTURA",NASA Space Station
-http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/playlist.m3u8
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="CULTURA",NASA Space Station 1
-http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="CULTURA",NASA Space Station 2
-http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://cache.tikilive.com/public/files/shows/146/146728/43867-800x450-FFFFFF.jpg" group-title="CULTURA", Silence TV
-http://109.236.85.100:8081/sipTV/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-VDIO_3dORtY/AAAAAAAAAAI/AAAAAAAAAAA/7iTvSXVtaeY/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CULTURA", Earth TV
-http://cdn.liveonearth.com/cdnedge/smil:TWL.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iglesiaproyectovidaintegral.files.wordpress.com/2016/05/greentv.jpg?w=274&h=274" group-title="CULTURA", GreenTV
-http://grupomac-lh.akamaihd.net/i/0pin4uhat_1@301783/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/logo1_zpskeh6nk1u.png" group-title="",Fm Hot Tv Santiago
-rtmp://evo.eltelon.com:1935/live/fm-hot-tv
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/32679_zpskreromvk.png" group-title="",PortalFoxMix Tv Santiago
-http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/logo_head_zps7e04gkdx.png" group-title="",NIU Tv Santiago
-http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist_w224088368_b750000_slesp.m3u8
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/uestv_zps6rhz9hno.png" group-title="",Uestv Santiago
-http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/sentildealuv_zpsyc3mmrcp.png" group-title="REGIONALES",Senal Uc Santiago
-http://www.senaluc.cl:80/playlist/stream.m3u8?s=vdmfcom
-#EXTINF:0 tvg-logo="http://player.chilepower.cl/maxima/tv/tv.png" group-title="REGIONALES",Maxima TV
-http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Test", CDF
-http://petaa151.telegorda.stream/live/123c/index.m3u8?token=sFa6yyax20JiINF7cKMviw&expires=1517837132
-#EXTINF:0 tvg-logo="" group-title="Test", CDF FutbolChile.net
-https://cdn.younow.com/php/api/broadcast/videoPath/hls=1/broadcastId=176339592_live.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/zn2C9xA.png" group-title="24/7",Los Simpson Random
-http://tecnotv.xyz/simpson1.php
-#EXTINF:-1 tvg-logo="https://imgur.com/cdXmXtl.jpg" group-title="24/7",Futurama
-http://tecnotv.xyz/futurama1.php
-#EXTINF:-1 tvg-logo="http://iptvchile.xyz/Logos/TeVe/logo1_zpskeh6nk1u.png" group-title="",Dragon Ball
-http://iptv.urlfb.com/listas-m3u/dbs.m3u
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", FOX ES
-http://185.231.160.42/647/2/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="Entretenimiento", TC 
-http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cine", Movistar DCine
-http://185.231.160.42/646/2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cine", Movistar Action
-http://185.231.160.42/609/1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cine", Movistar Comedia
-http://185.231.160.42/613/1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cine", Hollywood 
-http://185.231.160.42/610/1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cine", Extrema TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cine", Cine AR
-http://ar.watcha.live/ch17/hi.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cine", Wow TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
-
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-iwUTtOMzaiE/U08TQLhmUEI/AAAAAAAAGno/uaCpUitGnG4/s1600/NatsuHen-Locomotion+logo.gif" group-title="Infantil", Locomotion
-http://locomotiontv.com/envivo/loco_channel/stream.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Infantil", Animax
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/lifetime.gif" group-title="CULTURA", Lifetime
-http://iptv.premiumtutv.com/canal_34_lifetime.m3u8 
-
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/aprende_tv.jpg" group-title="Cultura", Aprende TV
-http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0016/8006/brand.gif?itok=BT51x1EP" group-title="Cultura", Sun Channel
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8?iptvgratis?Cultura.m3u8?
-#EXTINF:-1 tvg-logo="http://www.dw.com/cssi/dwlogo-print.gif" group-title="Cultura", DW Entretenimiento
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0005/0914/brand.gif?itok=z5pqOhRc" group-title="Cultura", TravelHD
-http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_37194.png" group-title="Cultura", Garage TV
-http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
-
-
-
-#EXTINF:-1, RCN 
-https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
-#EXTINF:-1,Caracol  
-https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
-#EXTINF:-1,Cable Noticias
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
-#EXTINF:-1,Cali TV
-http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
-#EXTINF:-1,Cantinazo TV
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
-#EXTINF:-1,Caracol TV
-http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
-#EXTINF:-1,CNC
-http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
-#EXTINF:-1,El Tiempo
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
-#EXTINF:-1,Life Design
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
-#EXTINF:-1 ,Mi Gente TV
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MGEN/tu1_1.m3u8
-#EXTINF:-1 ,MiMusica
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
-#EXTINF:-1 ,Play Channel
-http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/playchannel.m3u8
-#EXTINF:-1,RCN
-https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?exabytetv.info?.m3u
-#EXTINF:-1,Señal Colombia
-http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/playlist.m3u8
-#EXTINF:-1,Tacho Pistacho
-http://canalrcnhd.cdn.net.co/hlsme/envivoinfantil.m3u8
-#EXTINF:-1,RETRO TV  
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1,Tigo Musica  
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
-#EXTINF:-1,TELEMUSICA  
-http://186.155.200.118:1935/live/telemusica/playlist.m3u8
-#EXTINF:-1,M2O  
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
-#EXTINF:-1,CANTINAZO  
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
-#EXTINF:-1,MI MUSICA  
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
-#EXTINF:-1,MELODY CHANNEL  
-http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
-#EXTINF:-1,UNE TV  
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8
-#EXTINF:-1,SUN CHANNEL  
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
-#EXTINF:-1, ANIMAX  
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
-#EXTINF:-1,MEGA KIDS  
-https://clutch.vaughnsoft.net/ord/vl/mega_kids.m3u8
-#EXTINF:-1,CANAL CDN  
-http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,CHESPIRITO   
-https://clutch.vaughnsoft.net/ord/vl/mega_chavo.m3u8
-#EXTINF:-1,INFANTIL  
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
-#EXTINF:-1, Cablenoticias  
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
-#EXTINF:-1,Telesur  
-http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
-#EXTINF:-1,CNN  
-http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OFvdVlA.png" group-title="LATINO",RT
-#EXTINF:-1, TD  
-http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
-#EXTINF:-1, TELEMUNDO  
-http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
-#EXTINF:-1, TV Mas  
-http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8
-#EXTINF:-1, MEGA HD  
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8
-#EXTINF:-1, La Red  
-http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8
-#EXTINF:-1,PASIONES HD  
-https://latamonly-lh.akamaihd.net/i/pasiones_1@580283/master.m3u8
-#EXTINF:-1,CLARO SPORTS  
-https://latamonly-lh.akamaihd.net/i/clarosports_1@576705/master.m3u8
-#EXTINF:-1,MEGA KIDS  
-https://clutch.vaughnsoft.net/ord/vl/mega_kids.m3u8
-#EXTINF:-1,MEGAPELICULAS HD  
-https://clutch.vaughnsoft.net/ord/vl/mega_movieshd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/iDYzBh7.png",Paramount Channel
-http://189.216.247.113/Content/HLS/Live/Channel(PARAMOUNT_CHANNEL)/Stream(05)/index.m3u8
-#EXTINF:-1,canal_13  
-http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
-#EXTINF:-1,CANAL ONCE  
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-#EXTINF:-1,ARGENTINA  
-http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
-#EXTINF:-1,NAT GEO  
-http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO)/Stream(05)/index.m3u8
-#EXTINF:-1,CDO  
-http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
-#EXTINF:-1,TELEMUNDO  
-http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&rebase;=on
-#EXTINF:-1,TELEFE  
-http://ar.watcha.live/ch6/hi.m3u8
-#EXTINF:-1,TC HD  
-http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
-#EXTINF:-1,CANAL ONCE MEXICO  
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8?
-#EXTINF:-1,ATRESERIES  
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,NOVA ES  
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,MEGA ES  
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8
-#EXTINF:-1,CUATRO ES  
-http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1058883651.m3u8
-#EXTINF:-1,RECE ES  
-http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
-#EXTINF:-1,RTV ES  
-http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/index_1500_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,CGTN ES  
-http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1,NEX  
-http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8?
-#EXTINF:-1,VMAS  
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?tecnotv.info?iptv.m3u8?iptvgratis?Entretenimiento.m3u8?
-#EXTINF:-1,UMAG TV  
-http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
-#EXTINF:-1,VTV HD  
-http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
-#EXTINF:-1,Telesur  
-http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
-#EXTINF:-1,Las estrellas (canal 2)
-http://iptv.premiumtutv.com/canal_7_lasestrellascanal2.m3u8
-#EXTINF:-1,Fox
-http://iptv.premiumtutv.com/canal_8_fox.m3u8
-#EXTINF:-1,Tlnovelas
-http://iptv.premiumtutv.com/canal_9_tlnovelas.m3u8
-#EXTINF:-1,MTV
-http://iptv.premiumtutv.com/canal_10_mtv.m3u8
-#EXTINF:-1,Sony
-http://iptv.premiumtutv.com/canal_11_sony.m3u8
-#EXTINF:-1,Azteca 13
-http://iptv.premiumtutv.com/canal_12_azteca13.m3u8
-#EXTINF:-1,Azteca 7
-http://iptv.premiumtutv.com/canal_13_azteca7.m3u8
-#EXTINF:-1,Canal 5
-http://iptv.premiumtutv.com/canal_14_canal5.m3u8
-
-
+http://109.236.85.100:8081/sipTV/live/playlist.m3u8?xtreamiptv.m3u8
 
 
 
