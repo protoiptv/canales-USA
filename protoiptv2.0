@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <channels>
-    <channels_info>
-      <title>[COLOR white]Proto.IPTV[/COLOR]</title>
-      <genre>IPTV</genre>
-      <description>Add on para Proto Box</description>
+<channels_info>
+<title>[COLOR white]Proto.IPTV[/COLOR]</title>
+<genre>IPTV</genre>
+<description>Add on para Proto Box</description>
 <thumbnail>http://www.protobox.cl/protoiptv/image/logos/icon.png</thumbnail>
 <fanart>http://www.protobox.cl/image/fondos/7.jpg</fanart>
-      <date>07.05.2018</date>
-      <credits>Gracias a ProtoBox</credits>
-    </channels_info>
+<date>07.05.2018</date>
+<credits>Gracias a ProtoBox</credits>
+</channels_info>
 
 <channels>
 <channel>
@@ -24,7 +24,7 @@
  
 <channels>
 <channel>
-<name>[COLOR rose][/COLOR][COLOR purple]Proto.IPTV Es un addon Gratuito diseñado para la consola Proto Box [/COLOR]</name>
+<name>[COLOR rose][/COLOR][COLOR light blue]Proto.IPTV Es un addon Gratuito diseñado para la consola Proto Box [/COLOR]</name>
 <thumbnail>http://www.protobox.cl/protoiptv/image/logos/icon.png</thumbnail>
 <fanart>http://www.protobox.cl/image/fondos/7.jpg</fanart>
 <link>http://ignoreme</link>
@@ -34,8 +34,8 @@
 
 <channels>
 <channel>
-<name>[COLOR rose][/COLOR][COLOR purple]Proto.IPTV Es un addon Gratuito diseñado para la consola Proto Box [/COLOR]</name>
-<thumbnail>http://www.protobox.cl/protoiptv/image/logos/icon.png</thumbnail>
+<name>[COLOR rose][/COLOR][COLOR light blue]Lista Gratuita para otros dispositivos [/COLOR]</name>
+<thumbnail>http://www.protobox.cl/protoiptv/image/fyer/lista.jpg</thumbnail>
 <fanart>http://www.protobox.cl/image/fondos/7.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://pastebin.com/raw/NKTWpj7E</externallink>
@@ -45,8 +45,8 @@
 
 <channels>
 <channel>
-<name>[COLOR rose][/COLOR][COLOR purple]Lista Gratuita http://www.protobox.cl/protoIPTV/protolist.m3u [/COLOR]</name>
-<thumbnail>http://www.protobox.cl/protoiptv/image/logos/icon.png</thumbnail>
+<name>[COLOR rose][/COLOR][COLOR light blue]http://www.protobox.cl/protoIPTV/protolist.m3u [/COLOR]</name>
+<thumbnail>http://www.protobox.cl/protoiptv/image/flyer/lista.jpg</thumbnail>
 <fanart>http://www.protobox.cl/image/fondos/7.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://pastebin.com/raw/NKTWpj7E</externallink>
@@ -56,8 +56,18 @@
 
 <channels>
 <channel>
-<name>[COLOR rose][/COLOR][COLOR purple]Lista de Paga 2300 canales, 300 canales premium full HD, 100 canales 24x7 [/COLOR]</name>
-<thumbnail>http://www.protobox.cl/protoiptv/image/logos/icon.png</thumbnail>
+<name>[COLOR rose][/COLOR][COLOR light blue]Lista de Paga  [/COLOR]</name>
+<thumbnail>http://www.protobox.cl/protoiptv/image/flyer/DePaga1.jpg</thumbnail>
+<fanart>http://www.protobox.cl/image/fondos/7.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/NKTWpj7E</externallink>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR rose][/COLOR][COLOR light blue]2300 canales, 300 canales premium full HD, 100 canales 24x7 [/COLOR]</name>
+<thumbnail>http://www.protobox.cl/protoiptv/image/flyer/DePaga2.jpg</thumbnail>
 <fanart>http://www.protobox.cl/image/fondos/7.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://pastebin.com/raw/NKTWpj7E</externallink>
@@ -67,8 +77,8 @@
 
 <channels>
 <channel>
-<name>[COLOR rose][/COLOR][COLOR purple]Programacion en 4K, peliculas y series VOD y eventos PPV [/COLOR]</name>
-<thumbnail>http://www.protobox.cl/protoiptv/image/logos/icon.png</thumbnail>
+<name>[COLOR rose][/COLOR][COLOR light blue]Programacion en 4K, VOD y  PPV [/COLOR]</name>
+<thumbnail>http://www.protobox.cl/protoiptv/image/flyer/DePaga1.jpg</thumbnail>
 <fanart>http://www.protobox.cl/image/fondos/7.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://pastebin.com/raw/NKTWpj7E</externallink>
@@ -77,8 +87,18 @@
 
 <channels>
 <channel>
-<name>[COLOR rose][/COLOR][COLOR purple]$12 dolares via PAYPAL o $8.000 CLP Contratar al WhatsAPP +56 9 7416 4327 [/COLOR]</name>
-<thumbnail>http://www.protobox.cl/protoiptv/image/logos/icon.png</thumbnail>
+<name>[COLOR rose][/COLOR][COLOR light blue]$12 dolares via PAYPAL o $8.000 CLP [/COLOR]</name>
+<thumbnail>http://www.protobox.cl/protoiptv/image/flyer/DePaga2.jpg</thumbnail>
+<fanart>http://www.protobox.cl/image/fondos/7.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/NKTWpj7E</externallink>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR rose][/COLOR][COLOR light blue] Contratar al WhatsAPP +56 9 7416 4327 [/COLOR]</name>
+<thumbnail>http://www.protobox.cl/protoiptv/image/flyer/DePaga2.jpg</thumbnail>
 <fanart>http://www.protobox.cl/image/fondos/7.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://pastebin.com/raw/NKTWpj7E</externallink>
@@ -88,26 +108,20 @@
 
 <channels>
 <channel>
-<name>[COLOR cyan][/COLOR][COLOR light blue]Actualizacion:[/COLOR][COLOR purple] 09[/COLOR]-Julio-2018[COLOR cyan][COLOR  lime][/COLOR]  [/COLOR]</name>
+<name>[COLOR cyan][/COLOR][COLOR light blue]Actualizacion:[/COLOR][COLOR light blue] 09[/COLOR]-Julio-2018[COLOR cyan][COLOR  lime][/COLOR]  [/COLOR]</name>
 <thumbnail>http://www.protobox.cl/protoiptv/image/logos/icon.png</thumbnail>
 <fanart>http://www.protobox.cl/image/fondos/7.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://pastebin.com/raw/NKTWpj7E</externallink>
 </channel>
 </channels>
-
+  
 <channels>
 <channel>
-<name>[COLOR rose][/COLOR][COLOR purple]Entrar Al Addon [/COLOR]</name>
+<name>[COLOR rose][/COLOR][COLOR light blue]Entrar Al Addon [/COLOR]</name>
 <thumbnail>http://www.protobox.cl/protoiptv/image/logos/icon.png</thumbnail>
 <fanart>http://www.protobox.cl/image/fondos/7.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/protoiptv/canales-USA/master/addon</externallink>
 </channel>
 </channels>
-
-
- 
- 
- 
-
