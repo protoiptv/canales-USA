@@ -1,148 +1,194 @@
-      <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
- 
- 
-<channel>
-    <name>          <<<<<<<<<Canales Chilenos>>>>>>>></name>
-    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/66/TVChile_logo_2016.png</thumbnail>
-    <fanart>https://cdn.suwalls.com/wallpapers/digital-art/chile-flag-with-paint-drops-51998-1920x1080.jpg</fanart>
-        <items>
-               
-                        <item><title>[COLOR=red]                                      <<[/COLOR][COLOR=red] TV Chile[/COLOR][COLOR=red]>>[/COLOR]</title>   <link>http://www.ptotobox.cl/protoiptv</link></item>
- 
- 
- 
- 
- 
-                        <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] Canal 13 op 1</title>
-                        <fanart></fanart>
-                        <thumbnail></thumbnail>
-                        <link>http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8</link>
-                        </item>
-                        
-                        <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] Canal 13 op 2</title>
-                        <fanart></fanart>
-                        <thumbnail></thumbnail>
-                        <link>http://13.live.cdnz.cl/13hddesktop/13hd-desktop.m3u8?</link>
-                        </item>
-                        
-                        <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] Canal 13 op 3</title>
-                        <fanart></fanart>
-                        <thumbnail></thumbnail>
-                        <link>http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?</link>
-                        </item>
-                        
-                        <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] Canal 13 op 4</title>
-                        <fanart></fanart>
-                        <thumbnail></thumbnail>
-                        <link>http://csm-e-ces1saexaws101j8-661hgz2zvhzy.yospace.13.cl/csm/live/108031140/2.m3u8Id=CH13M</link>
-                        </item>
-                        
-                        
-                        <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] TVN</title>
-                        <fanart></fanart>
-                        <thumbnail></thumbnail>
-                        <link>http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8</link>
-                        </item>
-                        
- 
- 
-                        <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] Chilevision </title>
-                        <fanart></fanart>
-                        <thumbnail></thumbnail>
-                        <link>http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8</link>
-                        </item>
- 
-                        <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] Mega op 2</title>
-                        <fanart></fanart>
-                        <thumbnail></thumbnail>
-                        <link>http://mdstrm.com/live-stream-playlist-v/53d2c1a32640614e62a0e000.m3u8?ref=http%3A%2F%2Fwww.mega.cl%2Fsenal-en-vivo%2F</link>
-                        </item>
-                        
-                        <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] Mega op 2</title>
-                        <fanart></fanart>
-                        <thumbnail></thumbnail>
-                        <link>http://cl-a6-i-e-qp1.cdn.mdstrm.com/live-stream/53d2c1a32640614e62a0e000/publish/media_1500.m3u8?dnt=true&ref=http%3A%2F%2Fwww.mega.cl%2Fsenal-en-vivo%2F&es=cl-a6-i-e-qp1.cdn.mdstrm.com&ote=1530891075200&ot=qCdPwfmQHmCMhThn3HOZiQ&proto=http&pz=cl
-</link>
-                        </item>
-                        
- 
- 
-                        <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] La red </title>
-                        <fanart></fanart>
-                        <thumbnail></thumbnail>
-                        <link>https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone</link>
-                        </item>
- 
-                        <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] CNN chile</title>
-                        <fanart></fanart>
-                        <thumbnail></thumbnail>
-                        <link>http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8</link>
-                        </item>
- 
-                        <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] Maxima TV </title>
-                        <fanart></fanart>
-                        <thumbnail></thumbnail>
-                        <link>http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8</link>
-                        </item>
- 
-                        <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] FM HOT </title>
-                        <fanart></fanart>
-                        <thumbnail>http://fmhot.cl/wp-content/uploads/2014/08/logo1.png</thumbnail>
-                        <link>http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/chunklist_w1866810959_b1500000_slesp.m3u8</link>
-                        </item>
-                        
-                        <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] CACHI PUM!! </title>
-                        <fanart></fanart>
-                        <thumbnail>http://envivo.grupoz.cl/cachipum/img/logo.png</thumbnail>
-                        <link>http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w304819873.m3u8</link>
-                        </item>
-                        
-                        
-                        <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] UCV TV </title>
-                        <fanart></fanart>
-                        <thumbnail></thumbnail>
-                        <link>http://unlimited1-cl.dps.live/ucvtv/ucvtv.smil/ucvtv/livestream1/chunks.m3u8</link>
-                        </item>
-                        
-                        <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] 24 horas </title>
-                        <fanart></fanart>
-                        <thumbnail></thumbnail>
-                        <link>http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8</link>
-                        </item>
-                        
-                        <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] Rec tv </title>
-                        <fanart></fanart>
-                        <thumbnail></thumbnail>
-                        <link>http://13rec.live.ztreaming.com/13rec/13rec/sat.m3u8</link>
-                        </item>
-                        
-                       
-                        
-                       
-                        
-                        
-                        
-                        
-                        
- 
+#EXTM3U
 
+#EXTINF:0,-CHILE-
 
-                        
- 
-                       
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/logo_15218177831.jpg" group-title="Proto IPTV" , Canal 13 
+http://13.live.cdnz.cl/13hddesktop/13hd-desktop.m3u8?xtreamiptv.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1486614829.png" group-title="Proto IPTV" , TVN 
+http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8? 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1486613812.jpg" group-title="Proto IPTV" , Mega 
+http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/logo_15220759941.png" group-title="Proto IPTV" , Chilevisión 
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/logo_14873437931.png" group-title="Proto IPTV" , UCV 
+http://unlimited5-cl.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1527809091.png" group-title="Proto IPTV" , UCV 3 
+http://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1521686597.jpg" group-title="Proto IPTV" , TV Chile 
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1521418779.jpg" group-title="Proto IPTV" , 24 Horas Play 
+http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/logo_15009529651.png" group-title="Proto IPTV" , Ahora Noticias 
+http://cl-v1-c-e-bb2.cdn.mdstrm.com/live-stream/561430ae330428c223687e1e/publish/media_1500.m3u8?dnt=true&amp;ref=http%3A%2F%2Fwww.ahoranoticias.cl%2Fsenal-en-vivo%2F&amp;es=cl-v1-c-e-bb2.cdn.mdstrm.com&amp;ote=1531261068974&amp;ot=DuTCoaD82PDWtG8t4WSDAw&amp;proto=http&amp;pz=cl 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/t13.jpg" group-title="Proto IPTV" , T13 Móvil 
+http://cdn.ztreaming.com/t13vivo3/mobile.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/logo_15009529051.png" group-title="Proto IPTV" , CNN Chile 
+http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1492004696.jpg" group-title="Proto IPTV" , CDO 
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/logo_15220774751.png" group-title="Proto IPTV" , Tendencias TV 
+http://v2.tustreaming.cl/tustreaming/live7/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1516760135.jpg" group-title="Proto IPTV" , Dinámica TV 
+http://evo.eltelon.com:1935/live/dinamica-television/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/logo_15165766651.jpg" group-title="Proto IPTV" , AM Canal 
+https://v3.tustreaming.cl/amtv/live1/tracks-v1a1/index.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1516760274.jpg" group-title="Proto IPTV" , Trailer TV 
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/a33b581b/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1516575461.jpg" group-title="Proto IPTV" , NiuMedia 
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1521497155.png" group-title="Proto IPTV" , Pandero Music CL 
+http://190.107.176.55:1935/panderocl/stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1521499421.png" group-title="Proto IPTV" , Pandero Music TOP 
+http://evo.eltelon.com:1935/panderotop/smil:panderotop.smil/chunklist_w1822395328_b1500000_sleng.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1521683107.png" group-title="Proto IPTV" , Gufo Chile 
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/8be6db2d_1_540/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/logo_15165765881.jpg" group-title="Proto IPTV" , TVN Kids 
+https://mdstrm.com/live-stream-playlist/5925dba039cfbf492f30b563.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1521498861.png" group-title="Proto IPTV" , Trailer TV Kids 
+http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/logo_15167592191.png" group-title="Proto IPTV" , Limo TVN 
+http://mdstrm.com/live-stream-playlist/58cc0bf22d212a64177fddb1.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1492008110.jpg" group-title="Proto IPTV" , ADN 
+http://unlimited5-cl.dps.live/adntv/adntv.smil/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/logo_15220956361.png" group-title="Proto IPTV" , TV Senado 
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/logo_15220956201.png" group-title="Proto IPTV" , Cámara de Diputados 
+http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1492012878.png" group-title="Proto IPTV" , UesTV 
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/logo_15216859311.jpg" group-title="Proto IPTV" , Ufrovisión 
+http://mdstrm.com/live-stream/580a80b827de0ae2086ea6d8?sharing=true 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1528579859.png" group-title="Proto IPTV" , Chilevisual 
+http://v3.tustreaming.cl/chilevisual/live1/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/logo_15006983391.jpg" group-title="Proto IPTV" , Morrovision 
+http://video.crearchile.tv:8080/live/morrovision.mp4/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1487255043.png" group-title="Proto IPTV" , Antofagasta TV 
+http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/chunklist_w1499498801_b1428000.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1522811206.png" group-title="Proto IPTV" , Atacama TV 
+http://cdn.ztreaming.com/tustreaming/live2/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1523832104.png" group-title="Proto IPTV" , Marga Marga TV 
+http://edge1.cl.grupoz.cl/margamargatv/live/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/logo_15006981861.jpg" group-title="Proto IPTV" , Canal 2 de San Antonio 
+http://hd.chileservidores.cl:8080/live/canal2.mp4/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1521600661.png" group-title="Proto IPTV" , La Pintana TV 
+http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1487368155.png" group-title="Proto IPTV" , Sexta Visión 
+http://cl.streaminghd.cl/carlos132/carlos132/chunklist_w565655987.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1487369128.png" group-title="Proto IPTV" , TVO San Vicente 
+http://movilstream.digitalproserver.com/tvo/tvovivo/tvo.smil/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/tvcentro.jpg" group-title="Proto IPTV" , TV Centro 
+http://wow2.cl.digitalproserver.com/centrotv/centrotvvivo/centrotv.smil/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1486476481.jpg" group-title="Proto IPTV" , CampusTv 
+http://unlimited6-cl.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/logo_15167576571.png" group-title="Proto IPTV" , Contivisión 
+http://unlimited5-cl.dps.live/contivision/contivision.smil/contivision/livestream1/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/logo_15308557301.png" group-title="Proto IPTV" , TV Maule 
+https://590c5dc5c3271.streamlock.net/dante271/dante271/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/tvlinares.jpg" group-title="Proto IPTV" , Canal 5 Linares 
+http://v3.tustreaming.cl/tv5/live1/tracks-v1a1/rewind-999999.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/logo_15165759901.jpg" group-title="Proto IPTV" , UTV San Clemente 
+http://play.mediostream.cl/utvs/live1/tracks-v1a1/index.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1486617060.png" group-title="Proto IPTV" , Canal 9 Bío Bío 
+http://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1531174545.png" group-title="Proto IPTV" , TVR 
+https://unlimited4-cl.dps.live/tvr/tvr.smil/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1517079635.png" group-title="Proto IPTV" , TVU Concepción 
+http://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1486613665.jpg" group-title="Proto IPTV" , Canal 21 Chillán 
+http://edge1.cl.grupoz.cl/canal21tv/live/chunklist_w148640593.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/logo_15074361401.jpg" group-title="Proto IPTV" , Ñuble Tv 
+https://593b04c4c5670.streamlock.net:443/tvdaniel/tvdaniel/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1499801345.png" group-title="Proto IPTV" , Canal 2 Quellón 
+http://wow2.cl.digitalproserver.com/tvquellon/tvquellonvivo/tvquellon.smil/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1494898547.png" group-title="Proto IPTV" , PinguinoTV 
+http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1487370992.png" group-title="Proto IPTV" , ITV Patagonia 
+http://unlimited4-cl.dps.live/itv/itv.smil/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/logo_15006968221.jpg" group-title="Proto IPTV" , TVRed Punta Arenas 
+http://45.33.58.155:1935/live/myStream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/logo_15208845541.jpg" group-title="Proto IPTV" , Gracia TV 
+http://v3.tustreaming.cl:80/graciatv/live1/index.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1487255653.png" group-title="Proto IPTV" , ThemaTV 
+http://wow2.cl.digitalproserver.com/thema/themavivo/thema.smil/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1487123934.png" group-title="Proto IPTV" , Teletrack 
+http://unlimited2-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream2/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1501188521.jpg" group-title="Proto IPTV" , FM Hot TV HD 
+http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1501346918.png" group-title="Proto IPTV" , Carolina TV 
+http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/logo_15167576441.jpg" group-title="Proto IPTV" , Contivisión Musica 
+http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivo/contivisionmusica.smil/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1521688260.jpg" group-title="Proto IPTV" , Genial Tv 
+http://v3.tustreaming.cl/genialtv/live1/tracks-v1a1/index.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/logo_15216878571.jpg" group-title="Proto IPTV" , Lotería TV (ocacional) 
+http://unlimited1-cl.dps.live/loteria/loteria.smil/loteria/livestream1/chunks.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1528172622.png" group-title="Proto IPTV" , Cachipun 
+http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w1056888968.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/logo_15216012621.png" group-title="Proto IPTV" , Locomotion 
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1521497894.png" group-title="Proto IPTV" , Real Madrid TV 
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&amp;rebase=on?iptvgratis?chile.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/logo_15214261691.png" group-title="Proto IPTV" , PE - Tv Perú 
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1528342716.gif" group-title="Proto IPTV" , PE - TOP Latino 
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1521497398.png" group-title="Proto IPTV" , Al Jazeera 
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1521425230.png" group-title="Proto IPTV" , INT Hispantv 
+https://5a61de8ed719d.streamlock.net/live/ngrp:hispantv_all/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/logo_15214283721.jpg" group-title="Proto IPTV" , INT ABCNews 
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1521496967.png" group-title="Proto IPTV" , INT CBS News 
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1516760891.jpg" group-title="Proto IPTV" , DE - Deutsche Welle 
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&amp;play-only=primary&amp;rebase=on 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1521518110.png" group-title="Proto IPTV" , JP -NHK Japan 
+https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1521601710.png" group-title="Proto IPTV" , RU - RT Español 
+https://secure-streams.akamaized.net/rt-esp/index.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1521982188.png" group-title="Proto IPTV" , FR - France 24 
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1522636293.png" group-title="Proto IPTV" , INT CGTN Español 
+https://livees.cgtn.com/1000e/prog_index.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1521990467.png" group-title="Proto IPTV" , RU - 24KPbIM 
+http://vid.techbee.pro:8080/crimea24/index.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1521991232.png" group-title="Proto IPTV" , ES - Canal Extremadura 
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1521991466.png" group-title="Proto IPTV" , CO - RCN 
+http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1522637574.png" group-title="Proto IPTV" , RedBull TV 
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1522637965.png" group-title="Proto IPTV" , PE - IPe 
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1522638531.png" group-title="Proto IPTV" , MX - Ingenio TV 
+http://live10.cdnmedia.tv/dgtvelive/smil:ingen30.smil/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1528340156.png" group-title="Proto IPTV" , MSNBC 
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/logo_15281255091.png" group-title="Proto IPTV" , MX - Azterca Uno 
+http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1528340703.png" group-title="Proto IPTV" , AR - Canal 4 
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1528340313.png" group-title="Proto IPTV" , C-SPAN 
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1528340962.jpg" group-title="Proto IPTV" , ExtremaTv 
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1528657893.png" group-title="Proto IPTV" , AR - Derportv 
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1528655960.png" group-title="Proto IPTV" , CO - Cali TV 
+http://video.cehis.net/live-calitv/calitv1/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1528657284.png" group-title="Proto IPTV" , USA - NFL 
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8?JoCaRoIPTV.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1528656039.png" group-title="Proto IPTV" , USA - Pac 12 Mountain 
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1528656088.png" group-title="Proto IPTV" , USA - Pac 12 Los Ángeles 
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1528656607.png" group-title="Proto IPTV" , INT - Oliympic Channel 
+https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1528657520.png" group-title="Proto IPTV" , CAM - Estación Espacial Int 
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/file_1528657609.png" group-title="Proto IPTV" , CAM - Times Square 
+http://video3.earthcam.com:1935/fecnetwork/4717.flv/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/sinlogo.png" group-title="Proto IPTV" , FM Click 
+https://593b04c4c5670.streamlock.net/8062/8062/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://Proto IPTV.cl/img/logos/sinlogo.png" group-title="Proto IPTV" , Poder Judicial 
+http://unlimited6-cl.digitalproserver.com/judicial/judicial.smil/playlist.m3u8
