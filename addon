@@ -34,16 +34,13 @@
 <channels>
 <channels>
 <channel>
-<name>[COLOR rose][COLOR  purple]•  [/COLOR] Recientemente agregados[/COLOR]</name>
+<name>[COLOR rose][COLOR  purple]•  [/COLOR] PELICULAS 2[/COLOR]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/7xipjQZQ</externallink>
+<externallink>https://raw.githubusercontent.com/donkybong/canales-USA/master/peliculas%202</externallink>
 </channel>
-</channels>
- 
- 
- 
+</channels> 
 
 <channels>
 <channel>
@@ -52,6 +49,16 @@
 <fanart>http://www.protobox.cl/protoiptv/img/intro-bg.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/protoiptv/canales-USA/master/canales%20nacionales%20v2</externallink>
+</channel>
+</channels>
+ 
+ <channels>
+<channel>
+<name>[COLOR rose][COLOR  purple]•  [/COLOR] Televisión Chilena 2[/COLOR]</name>
+<thumbnail>http://www.protobox.cl/protoiptv/image/item2/chile.png</thumbnail>
+<fanart>http://www.protobox.cl/protoiptv/img/intro-bg.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/wS34ZHj6</externallink>
 </channel>
 </channels>
 
